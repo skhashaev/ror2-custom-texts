@@ -1,0 +1,33 @@
+{
+	"strings": {
+
+		"ARTIFACT_DEVOTION_NAME": "Artifact of Devotion",
+		"ARTIFACT_DEVOTION_DESCRIPTION": "Replace broken drones with Lemurian Eggs. Offer an item to gain followers.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Trial of Devotion",
+		"ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Complete the Trial of Devotion.",
+
+		"ARTIFACT_DELUSION_NAME": "Artifact of Delusion",
+		"ARTIFACT_DELUSION_DESCRIPTION": "Risk your items after completing the teleporter event in a test of memory to gain more items.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Trial of Delusion",
+		"ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Complete the Trial of Delusion.",
+
+		"MAP_LAKES_TITLE": "Verdant Falls",
+		"MAP_LAKES_SUBTITLE": "Ground Zero",
+    "MAP_LAKES_LORE": "<style=cMono>\nWelcome to DataScraper (v3.5.16 \u2013 beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\nOutputting local audio transcriptions...\n</style>\n\nDay 02\nAll day Garret curses about losing our ship, our way, our cargo. From what I\u2019ve heard about this planet, it could have been worse. We\u2019re surviving on plants our xenobiologist would have loved to study. Some sort of High Court signal is surveying this hell hole. Seems like a stretch, but I hope they look this way and are feeling generous.\nThrough trial and error, we discovered the most edible plant - they\u2019re disgusting raw, but after a sear they\u2019re tolerable, and their smell - a smell so sweet and powerful it saturates our filters. Reminds me of strawberries. Warmed in the sun.\nAt least we\u2019re alive.\n\nDay 03\nMy mouth tastes bitter unless I\u2019m eating. Garret reports the same, his paranoia grows daily. He swears he sees the sap quiver and bounce every time we hack open these plants.\n\nDay 07\nTo be honest I\u2019m starting to worry.\nMore exhausted each day.\nTerrible stomach aches at night.\nOf course we suspect the food but what other choice do we have?\nMy skin has an orange tint to it... maybe it\u2019s my vision.\nAll I smell lately is the sweetness of the sap.\nI pray I\u2019m not getting sick.\nI\u2019d hate for Garret to be right about something.\n\nDay 08\nWe\u2019re alive.\nI\u2019m filled with hope.\nA High Court scout... or did she say seeker? Whatever she is, found our camp. A bit sharp around the edges but gave us some food. I savored every bite. She said it\u2019s not safe to travel at night and will lead us out of this mess in the morning.\nUnderground.\nWith real food to eat.\n\nKelvin out.",
+
+		"LEMURIAN_EGG_NAME": "Lemurian Egg",
+		"LEMURIAN_EGG_CONTEXT": "Offer Item",
+		"LEMURIAN_EGG_POPUP_TEXT": "<b>Lemurian Egg</b>\n<i><style=cSub><size=75%>Gain a follower by offering an item!</size></style></i>",
+
+		"DELUSION_MEMORYGAME_PROMPT": "Remember Wisely",
+		"DELUSION_MEMORYGAME_HEADER": "Remember Wisely",
+
+		"UNLOCKABLE_LOG_STAGES_LAKES": "Environment Log: Verdant Falls",
+
+		"BAZAAR_SEER_LAKES": "<style=cWorldEvent>You dream of sweet fruits, and bitter promises.</style>",
+
+		"MERC_SKIN_ALT3_NAME": "The Prisoner"
+	}
+}
