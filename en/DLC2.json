@@ -107,7 +107,7 @@
 
         "MAP_LEMURIANTEMPLE_TITLE": "Reformed Pillar",
         "MAP_LEMURIANTEMPLE_SUBTITLE": "Shadow of the Savior",
-        "MAP_LEMURIANTEMPLE_LORE": "<style=cMono>\nFIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input... done.\n# Reading image for text... done.\n# Transcribing data... done.\n# Translating text... done. [7 exceptions raised]\nComplete: outputting results.</style>\n\nYou all sit at the blessed Foot of the [Colossus].\n\nWhat is that Elder?\n\nThe [Colossus] is a gift built by the Deni to honor [the hero].\n\nWho is [the hero]?\n\nThe Bulwark of the Weak. Savior across the deep darkness. Light against [death]. [The hero] saved all that we can see and all we have are [his].\n\nWhy is the [Colossus] here?\n\nThe [Colossus] is here for it is right to be here. It is right for us to guard it so the [great sin] should not break free.\n\nWhy do we guard it, Elder?\n\nSo that he may love us, as we love him.\n\n<style=cMono>Translation Errors: 4</style>\n# [Colossus] could not be fully translated.\n# [Death] could not be fully translated.\n# [The Hero] could not be fully translated.\n# [Great Sin] could not be fully translated.\n",
+        "MAP_LEMURIANTEMPLE_LORE": "<style=cMono>\nFIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input... done.\n# Reading image for text... done.\n# Transcribing data... done.\n# Translating text... done. [7 exceptions raised]\nComplete: outputting results.</style>\n\nYou all sit at the blessed Foot of the [Colossus].\n\nWhat is that Elder?\n\nThe [Colossus] is a gift built by the humans to honor [the hero].\n\nWho is [the hero]?\n\nThe Bulwark of the Weak. Savior across the deep darkness. Light against [death]. [The hero] saved all that we can see and all we have are [his].\n\nWhy is the [Colossus] here?\n\nThe [Colossus] is here for it is right to be here. It is right for us to guard it so the [great sin] should not break free.\n\nWhy do we guard it, Elder?\n\nSo that he may love us, as we love him.\n\n<style=cMono>Translation Errors: 4</style>\n# [Colossus] could not be fully translated.\n# [Death] could not be fully translated.\n# [The Hero] could not be fully translated.\n# [Great Sin] could not be fully translated.\n",
 
         "MAP_HABITAT_TITLE": "Treeborn Colony",
         "MAP_HABITAT_SUBTITLE": "Path of the Protector",
@@ -530,7 +530,7 @@
 
         "FALSESONBOSS_SPAWN_1": "Leave me.",
         "FALSESONBOSS_SPAWN_2": "If you insist.",
-        "FALSESONBOSS_SPAWN_3": "Have you come seeking Deni?",
+        "FALSESONBOSS_SPAWN_3": "Have you come seeking humans?",
         "FALSESONBOSS_SPAWN_4": "What are you?",
 
         "FALSESONBOSS_HERETIC_SEE_1": "Back again, Vulture?",
