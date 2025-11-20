@@ -404,8 +404,8 @@
         "AURELIONITE_FRAGMENT_PICKUP_NAME": "Aurelionite Fragment",
         "AURELIONITE_FRAGMENT_DESCRIPTION": "A fragment made of Aurelionite power. Allows the selection of one or more items upon interaction.",
         "AURELIONITE_FRAGMENT_LORE": "LORE HERE",
-        "AURELIONITE_FRAGMENT_PICKUP_PROMPT": "Receive Blessings",
-        "AURELIONITE_FRAGMENT_PICKER_PROMPT": "Receive Gilded Blessings",
+        "AURELIONITE_FRAGMENT_PICKUP_PROMPT": "Receive Cookies",
+        "AURELIONITE_FRAGMENT_PICKER_PROMPT": "Receive Gilded Cookies",
 
         "PORTAL_COLOSSUS_NAME": "Green Portal",
         "PORTAL_COLOSSUS_CONTEXT": "Enter Green Portal",
@@ -443,7 +443,7 @@
         "EQUIPMENT_HEALANDREVIVE_NAME": "Seed of Life",
         "EQUIPMENT_HEALANDREVIVE_PICKUP": "Revives the user when killed or dead allies on activation. Consumed on use.",
         "EQUIPMENT_HEALANDREVIVE_DESC": "<style=cIsHealing>Revive</style> <style=cIsUtility>dead, friendly Survivors</style> upon activation. <style=cIsUtility>Dying</style> while holding this equipment <style=cIsHealing>returns only you to life</style>. <style=cIsHealing>Reviving</style> gives <style=cIsHealing>3s of invulnerability</style> and <style=cIsUtility>consumes</style> the equipment.",
-        "EQUIPMENT_HEALANDREVIVE_LORE": "Thick evening mist wraps the Queen like a sentient cloak. \"Children, tonight we show these wretched demons our grief. Fight and fall and fight again. Take his [blessing] and go.”\nA stream of Beetles march up the dead tree\u2019s hollow. A Beetle Guard stops to face an alcove and it\u2019s units pause behind him, antennae twitching. The Guard crosses it\u2019s front legs above it\u2019s head, \"Deathless are we.\", it sticks a pronged seed to it\u2019s underbelly.\nOn the surface, Beetles pour from lifeless stumps in neat lines. A thousand forms shrink into the Eastern horizon in a golden thread.",
+        "EQUIPMENT_HEALANDREVIVE_LORE": "Thick evening mist wraps the Queen like a sentient cloak. \"Children, tonight we show these wretched demons our grief. Fight and fall and fight again. Take his [cookie] and go.”\nA stream of Beetles march up the dead tree\u2019s hollow. A Beetle Guard stops to face an alcove and it\u2019s units pause behind him, antennae twitching. The Guard crosses it\u2019s front legs above it\u2019s head, \"Deathless are we.\", it sticks a pronged seed to it\u2019s underbelly.\nOn the surface, Beetles pour from lifeless stumps in neat lines. A thousand forms shrink into the Eastern horizon in a golden thread.",
 
         "EQUIPMENT_HEALANDREVIVECONSUMED_NAME": "Seed of Life (Consumed)",
         "EQUIPMENT_HEALANDREVIVECONSUMED_PICKUP": "On activation places a sprout that drops healing orbs.",
@@ -616,7 +616,7 @@
         "EQUIPMENT_AFFIXBEAD_PICKUP": "Become an aspect of spite.",
         "EQUIPMENT_AFFIXBEAD_DESC": "???",
 
-        "EQUIPMENT_AFFIXAURELIONITE_NAME": "Aurelionite's Blessing",
+        "EQUIPMENT_AFFIXAURELIONITE_NAME": "Aurelionite's Cookie",
         "EQUIPMENT_AFFIXAURELIONITE_PICKUP": "Become an aspect of radiance.",
         "EQUIPMENT_AFFIXAURELIONITE_DESC": "???",
 

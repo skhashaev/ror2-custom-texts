@@ -599,7 +599,7 @@
 		"ITEM_HALFATTACKSPEEDHALFCOOLDOWNS_DESC": "Decrease <style=cIsUtility>skill cooldowns</style> by <style=cIsUtility>50% <style=cStack>(+50% per stack)</style></style>. Decrease <style=cIsDamage>attack speed</style> by <style=cIsDamage>50%</style> <style=cStack>(+50% per stack)</style>.",
 		"ITEM_HALFATTACKSPEEDHALFCOOLDOWNS_LORE": "\"The wind guides us all. Listen to the song of the wind, and dance according to its instruction. You will find yourself dodging every blow, countering every strike. You will find that the wind will lift you up, making you as free as a fallen autumn leaf. But heed, and do not lose yourself to the wind. Running is a viable option, though eventually you will find yourself with nowhere left to run to.\"\r\n\r\n-Will of Combat, Second Excerpt",
 
-		"ITEM_LUNARWINGS_NAME": "Blessings of Terafirmae",
+		"ITEM_LUNARWINGS_NAME": "Pelmeni of Terafirmae",
 		"ITEM_LUNARWINGS_PICKUP": "PLACEHOLDER PICKUP DESCRIPTION",
 		"ITEM_LUNARWINGS_DESC": "PLACEHOLDER DESCRIPTION",
 		"ITEM_LUNARWINGS_LORE": "A relic from an ancient avian race:  It is said that they gave up the gift of flight in order to establish new agricultural civilizations, bolstering their strength and numbers to withstand the ever-changing climate of their dying planet.",
