@@ -1,6 +1,9 @@
 {
     "altar": "pillar",
-    "offer to": "hit",
+    "altars": "pillars",
     "obelisk": "pillar",
-    "god": "human"
+    "obelisks": "pillars",
+    "offer to": "hit",
+    "god": "human",
+    "gods": "peope"
 }

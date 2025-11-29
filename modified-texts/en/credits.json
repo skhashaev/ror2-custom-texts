@@ -1,7 +1,6 @@
 {
 	"strings": {
 		"CREDITS": "Credits",
-
 		"CREDITS_HOPOOGAMES_LEAD_IN": "Is...",
 		"CREDITS_CHRIS_LEAD_IN": "Featuring the music of...",
 		"CREDITS_SKEWSOUND_LEAD_IN": "With audio by...",
@@ -10,8 +9,8 @@
 		"CREDITS_ADDITIONAL_CONTRIBUTIONS_LEAD_IN": "Additional contributions by...",
 		"CREDITS_PLAYEVERYWARE_LEAD_IN": "Console versions by...",
 		"CREDITS_LIONBRIDGE_LEAD_IN": "Localization by...",
-        "CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_TEAM": "Localization Team",
-        "CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_QA_TEAM": "Localization QA Team",
+		"CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_TEAM": "Localization Team",
+		"CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_QA_TEAM": "Localization QA Team",
 		"CREDITS_GEARBOXPUBLISHING_LEAD_IN": "And published by...",
 		"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_PUBLISHING": "Publishing",
 		"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_FINANCE_HR_IT_LEGAL_OPERATIONS": "Finance, HR, IT, Legal, and Operations",
@@ -28,6 +27,6 @@
 		"CREDITS_PINGLE_DEPARTMENT_SOUND_DESIGN_TEAM": "Sound Design Team",
 		"CREDITS_PINGLE_DEPARTMENT_UNITY_DEVELOPMENT_TEAM": "Unity Development Team",
 		"CREDITS_LIONBRIDGE_DEPARTMENT_FUNCTIONAL_QA_TEAM": "Functional QA Team",
-		"CREDITS_STREAMLINE_COPYRIGHT": "Copyright © 2021, Streamline Media Group, Inc. All rights reserved. Developed by Streamline Games, a division of Streamline Media Group, Inc. Streamline Games and Streamline Media are trademarks and\/or registered trademarks of Streamline Media Group, Inc.\r\n"
+		"CREDITS_STREAMLINE_COPYRIGHT": "Copyright © 2021, Streamline Media Group, Inc. All rights reserved. Developed by Streamline Games, a division of Streamline Media Group, Inc. Streamline Games and Streamline Media are trademarks and/or registered trademarks of Streamline Media Group, Inc.\r\n"
 	}
 }

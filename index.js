@@ -7,11 +7,11 @@ const capitalized = (word) => {
 
 const replaceWords = (text, wordsToReplace) => {
     let result = text;
-    for (const word of [...wordsToReplace, ...wordsToReplace.map(capitalized)]) {
-        console.log(word);
+    const wordsToCheck = [...wordsToReplace, ...wordsToReplace.map(capitalized)]
+    for (const word of wordsToCheck) {
         result = result.replace(word, (match) => {
             const lower = match.toLowerCase();
-            if(wordsToReplace.includes(lower)) {
+            if(wordsToCheck.includes(lower)) {
                 let replacement = replacementObject[lower];
                 console.log('--replacement', replacement)
                 // Capitalize if original was capitalized
@@ -56,15 +56,15 @@ const wordsToReplace = Object.keys(replacementObject);
 const originalTextsFiles = fs.readdirSync('original-texts/en').filter(file => file.endsWith(".json"));
 
 // Modify texts
-for (const file of originalTextsFiles) {
-    const originalText = fs.readFileSync(`${originalTextsFolder}/${file}`, 'utf8');
-    const modifiedText = replaceWords(originalText, wordsToReplace);
-    fs.writeFileSync(`${modifiedTextsFolder}/${file}`, modifiedText);
-}
+// for (const file of originalTextsFiles) {
+//     const originalText = fs.readFileSync(`${originalTextsFolder}/${file}`, 'utf8');
+//     const modifiedText = replaceWords(originalText, wordsToReplace);
+//     fs.writeFileSync(`${modifiedTextsFolder}/${file}`, modifiedText);
+// }
 
-    // const originalText = fs.readFileSync(`${originalTextsFolder}/Achievements.json`, 'utf8');
-    // const modifiedText = replaceWords(originalText, wordsToReplace);
-    // fs.writeFileSync(`${modifiedTextsFolder}/Achievements.json`, modifiedText);
+    const originalText = fs.readFileSync(`${originalTextsFolder}/Items.json`, 'utf8');
+    const modifiedText = replaceWords(originalText, wordsToReplace);
+    fs.writeFileSync(`${modifiedTextsFolder}/Items.json`, modifiedText);
 
 
 console.log('Texts modified successfully');

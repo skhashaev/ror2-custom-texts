@@ -5,184 +5,146 @@
 		"TELEPORTER_NAME": "Teleporter",
 		"TELEPORTER_BEGIN_CONTEXT": "Activate Teleporter..?",
 		"TELEPORTER_END_CONTEXT": "Enter Teleporter",
-
 		"BARREL1_NAME": "Barrel",
 		"BARREL1_CONTEXT": "Open barrel",
 		"BARREL1_DESCRIPTION": "Gives survivors a splash of gold.",
 		"BARREL_LORE": "ADD LORE HERE",
-
 		"DUMMYINTERACTION_NAME": "???",
 		"DUMMYINTERACTION_CONTEXT": "???",
-
 		"INSPECT_INFO_MISSING_TITLE": "????",
 		"INSPECT_INFO_MISSING_DESCRIPTION": "????",
 		"INSPECT_INFO_MISSING_LORE": "????",
-
 		"INSPECT_INFO_UNKNOWN_TITLE": "????",
 		"INSPECT_INFO_UNKNOWN_DESCRIPTION": "????",
 		"INSPECT_INFO_UNKNOWN_LORE": "????",
-
 		"SHOP_ITEM_MYSTERY_TITLE": "Mystery Item",
 		"SHOP_ITEM_MYSTERY_DESCRIPTION": "Gives players a random item.",
 		"SHOP_ITEM_MYSTERY_LORE": "LORE HERE",
-
 		"LOCKBOX_NAME": "Rusty Lockbox",
 		"LOCKBOX_CONTEXT": "Open Rusty Lockbox",
 		"LOCKBOX_DESCRIPTION": "Only spawns when a survivor holds the common item \"Rusty Key\" and will always contain an uncommon or legendary item.",
 		"LOCKBOX_LORE": "LORE HERE",
-
 		"LOCKBOXVOID_NAME": "Encrusted Lockbox",
 		"LOCKBOXVOID_CONTEXT": "Open Encrusted Lockbox",
 		"LOCKBOXVOID_DESCRIPTION": "Only spawns when a survivor holds the void item \"Encrusted Key\" and will drop a Void Potential item.",
 		"LOCKBOXVOID_LORE": "LORE HERE",
-
 		"EQUIPMENTBARREL_NAME": "Equipment Barrel",
 		"EQUIPMENTBARREL_CONTEXT": "Open equipment barrel",
 		"EQUPMENTBARREL_DESCRIPTION": "Costs gold to open and will always contain an equipment item.",
 		"EQUPMENTBARREL_LORE": "LORE HERE",
-
 		"OLDCHEST_NAME": "Old Chest",
 		"OLDCHEST_CONTEXT": "",
 		"OLDCHEST_DESCRIPTION": "TBD",
 		"OLDCHEST_LORE": "LORE HERE",
-
 		"CHEST1_NAME": "Chest",
 		"CHEST1_CONTEXT": "Open chest",
 		"CHEST1_DESCRIPTION": "Costs gold to open and has a chance to contain either a common, uncommon, or legendary item.",
 		"CHEST1_LORE": "LORE HERE",
-
 		"CHEST1_STEALTHED_NAME": "Cloaked Chest",
 		"CHEST1_STEALTHED_CONTEXT": "Open cloaked chest",
 		"CHEST1_STEALTHED_DESCRIPTION": "An invisible chest that does not have to be purchased. The Cloaked Chest has a chance to contain either a common, uncommon, or legendary item.",
 		"CHEST1_STEALTHED_LORE": "LORE HERE",
-
 		"CHEST2_NAME": "Large Chest",
 		"CHEST2_CONTEXT": "Open large chest",
 		"CHEST2_DESCRIPTION": "Pricier Chest than the Small Chest that contains an item of at least uncommon rarity and has a higher chance to hold a legendary item.",
 		"CHEST2_LORE": "LORE HERE",
-
 		"GOLDCHEST_NAME": "Legendary Chest",
 		"GOLDCHEST_CONTEXT": "Open Legendary Chest",
 		"GOLDCHEST_DESCRIPTION": "Expensive chest guaranteed to hold a legendary item. Natural generation is extremely rare.",
 		"GOLDCHEST_LORE": "LORE HERE",
-
 		"TIMEDCHEST_NAME": "Timed Security Chest",
 		"TIMEDCHEST_CONTEXT": "Open Timed Security Chest",
 		"TIMEDCHEST_DESCRIPTION": "A timed chest that will only open if a survivor reaches it before the 10 minute mark.",
 		"TIMEDCHEST_LORE": "LORE HERE",
-
 		"RADIOTOWER_NAME": "Radio Scanner",
 		"RADIOTOWER_CONTEXT": "Download environment data",
 		"RADIOTOWER_DESCRIPTION": "Scans the entire stage on activation and adds the environmental data of the scanned stage to the survivor's Logbook.",
 		"RADIOTOWER_LORE": "LORE HERE",
-
 		"MULTISHOP_TERMINAL_NAME": "Multishop Terminal",
 		"MULTISHOP_TERMINAL_CONTEXT": "Open terminal",
-
 		"FAN_NAME": "Fan",
 		"FAN_CONTEXT": "Reactivate Fan",
 		"FAN_DESCRIPTION": "Turns into a launch pad after activation to launch survivors to other locations on the stage.",
 		"FAN_LORE": "LORE HERE",
-
 		"DUPLICATOR_NAME": "3D Printer",
 		"DUPLICATOR_CONTEXT": "Use 3D Printer",
 		"DUPLICATOR_DESCRIPTION": "Allows survivors to print a common or uncommon item if they sacrifice a scrap or a random item matching the displayed item's rarity. The 3D printer will always take scrap before a random item.",
 		"DUPLICATOR_LORE": "LORE HERE",
-
 		"DUPLICATOR_MILITARY_NAME": "Mili-Tech Printer",
 		"DUPLICATOR_MILITARY_CONTEXT": "Use Mili-Tech Printer",
 		"DUPLICATOR_MILITARY_DESCRIPTION": "The rarest printer that allows survivors to print legendary items if they sacrifice a legendary scrap or a random legendary item. The 3D printer will always take scrap before a random item.",
 		"DUPLICATOR_MILITARY_LORE": "LORE HERE",
-
 		"DUPLICATOR_WILD_NAME": "Overgrown 3D Printer",
 		"DUPLICATOR_WILD_CONTEXT": "Use Overgrown 3D Printer",
 		"DUPLICATOR_WILD_DESCRIPTION": "Allows survivors to print a boss item if they sacrifice a boss scrap or a random boss item. The 3D printer will always take scrap before a random item. ",
 		"DUPLICATOR_WILD_LORE": "LORE HERE",
-
 		"CASINOCHEST_NAME": "Adaptive Chest",
 		"CASINOCHEST_CONTEXT": "Open Adaptive Chest",
 		"CASINOCHEST_DESCRIPTION": "Costs gold to activate and will cycle through many items quickly. Interacting with the Adaptive Chest will drop the item currently displayed in the cycle.",
 		"CASINOCHEST_LORE": "LORE HERE",
-
 		"LUNAR_CHEST_NAME": "Lunar Pod",
 		"LUNAR_CHEST_CONTEXT": "Open Lunar Pod",
 		"LUNAR_CHEST_DESCRIPTION": "Costs 1 Lunar coin and drops a random Lunar Item or Lunar Equipment.",
 		"LUNAR_CHEST_LORE": "LORE HERE",
-
 		"LUNAR_TERMINAL_NAME": "Lunar Bud",
 		"LUNAR_TERMINAL_CONTEXT": "Open Lunar Bud",
 		"LUNAR_TERMINAL_DESCRIPTION": "Offers 1 Lunar Item each in exchange for 2 Lunar Coins. Only Lunar Items that have already been unlocked will appear.",
 		"LUNAR_TERMINAL_LORE": "LORE HERE",
-
 		"LUNAR_REROLL_NAME": "Slab",
 		"LUNAR_REROLL_CONTEXT": "Refresh Shop",
 		"LUNAR_REROLL_DESCRIPTION": "Allows survivors to reroll all the remaining Lunar Buds in the lunar shop.",
 		"LUNAR_REROLL_LORE": "LORE HERE",
-
 		"BAZAAR_UPGRADE_LUNAR_NAME": "Slab",
 		"BAZAAR_UPGRADE_LUNAR_CONTEXT": "Permanently upgrade Item Shop",
-
 		"BAZAAR_BLUEPRINT_NAME": "Strange Display",
 		"BAZAAR_BLUEPRINT_CONTEXT": "Permanently Unlock",
-
 		"BAZAAR_UPGRADE_DRONE_NAME": "Slab",
 		"BAZAAR_UPGRADE_DRONE_CONTEXT": "Permanently upgrade Drone Shop",
-
 		"BAZAAR_CAULDRON_NAME": "Cauldron",
 		"BAZAAR_CAULDRON_CONTEXT": "Reforge",
 		"BAZAAR_CAULDRON_DESCRIPTION": "Allows survivors to exchange multiple common items or scrap for a random uncommon or legendary item.",
 		"BAZAAR_CAULDRON_LORE": "LORE HERE",
-
 		"BAZAAR_SEER_DESCRIPTION": "Guarantees the next stage's environment is the environment displayed.",
 		"BAZAAR_SEER_LORE": "ADD LORE HERE",
-
 		"NEWT_STATUE_NAME": "Newt Pillar",
 		"NEWT_STATUE_CONTEXT": "Donate to Newt Pillar",
 		"NEWT_STATUE_DESCRIPTION": "Costs one Lunar Coin to activate and will spawn a blue portal after the Teleporter Event allowing the player to travel to the Bazaar Between Time.",
 		"NEWT_STATUE_LORE": "LORE HERE",
-
 		"MSOBELISK_NAME": "Excommunicado",
 		"MSOBELISK_CONTEXT": "Obliterate yourself from existence",
 		"MSOBELISK_CONTEXT_CONFIRMATION": "Are you sure?",
-
 		"CATEGORYCHEST_HEALING_NAME": "Chest - Healing",
 		"CATEGORYCHEST_HEALING_CONTEXT": "Open Chest - Healing",
 		"CATEGORYCHEST_HEALING_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary healing item.",
 		"CATEGORYCHEST_HEALING_LORE": "LORE HERE",
-
 		"CATEGORYCHEST_DAMAGE_NAME": "Chest - Damage",
 		"CATEGORYCHEST_DAMAGE_CONTEXT": "Open Chest - Damage",
 		"CATEGORYCHEST_DAMAGE_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary damage item.",
 		"CATEGORYCHEST_DAMAGE_LORE": "LORE HERE",
-
 		"CATEGORYCHEST_UTILITY_NAME": "Chest - Utility",
 		"CATEGORYCHEST_UTILITY_CONTEXT": "Open Chest - Utility",
 		"CATEGORYCHEST_UTILITY_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary utility item.",
 		"CATEGORYCHEST_UTILITY_LORE": "LORE HERE",
-
 		"SHRINE_HEALING_NAME": "Pillar of the Woods",
 		"SHRINE_HEALING_CONTEXT": "Hit Pillar of the Woods",
 		"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>You are embraced by the healing warmth of the Woods.</color>",
 		"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is embraced by the healing warmth of the Woods.</color>",
 		"SHRINE_HEALING_DESCRIPTION": "When activated by a survivor the Pillar of the Woods will create a circular field around it that heals all allies when inside it.",
 		"SHRINE_HEALING_LORE": "LORE HERE",
-
 		"SHRINE_BLOOD_NAME": "Pillar of Blood",
 		"SHRINE_BLOOD_CONTEXT": "Hit Pillar of Blood",
 		"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You feel a searing pain. You have gained {1} gold.</color>",
 		"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} feels a searing pain, and has gained {1} gold.</color>",
 		"SHRINE_BLOOD_DESCRIPTION": "When activated by a survivor the Pillar of Blood consumes a percentage of the survivors health in exchange for gold equal to half the amount of HP taken.",
 		"SHRINE_BLOOD_LORE": "LORE HERE",
-
 		"SHRINE_CHANCE_NAME": "Pillar of Chance",
 		"SHRINE_CHANCE_CONTEXT": "Hit Pillar of Chance",
 		"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You hit the trader and are rewarded!</color>",
 		"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the trader and was rewarded!</color>",
-		"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You offer to the trader, but gain nothing.</color>",
+		"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You hit the trader, but gain nothing.</color>",
 		"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} offered to the trader and gained nothing.</color>",
 		"SHRINE_CHANCE_DESCRIPTION": "When activated by a survivor the Pillar of Chance has a chance to drop an item of random rarity or a random equipment item.",
 		"SHRINE_CHANCE_LORE": "LORE HERE",
-
 		"SHRINE_BOSS_NAME": "Pillar of the Mountain",
 		"SHRINE_BOSS_CONTEXT": "Hit Pillar of the Mountain",
 		"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>You have invited the challenge of the Mountain..</color>",
@@ -191,7 +153,6 @@
 		"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
 		"SHRINE_BOSS_DESCRIPTION": "When activated by a survivor the Teleporter Event will increase in difficulty and extra items will be given once the survivors kill all the Teleporter bosses.",
 		"SHRINE_BOSS_LORE": "LORE HERE",
-
 		"VOID_SUPPRESSOR_NAME": "Void Eradicator",
 		"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
 		"VOID_SUPPRESSOR_DESCRIPTION": "TBD",
@@ -200,122 +161,95 @@
 		"VOID_SUPPRESSOR_FAKE_NAME": "Newt Pillar?",
 		"VOID_SUPPRESSOR_FAKE_CONTEXT": "Donate to Newt Pillar?",
 		"VOID_SUPPRESSOR_FAKE_DESCRIPTION": "Costs one Lunar Coin to activate and will spawn a blue portal after the Teleporter Event allowing the player to travel to the Bazaar Between Time.",
-
-
 		"SHRINE_RESTACK_NAME": "Pillar of Order",
 		"SHRINE_RESTACK_CONTEXT": "Hit Pillar of Order",
 		"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
 		"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... sequenced.</color>",
 		"SHRINE_RESTACK_DESCRIPTION": "When activated by a survivor the Pillar of Order randomly selects an item from each tier of rarity and turns all items of the same rarity into the selected item of that tier.",
 		"SHRINE_RESTACK_LORE": "LORE HERE",
-
 		"SHRINE_GOLDSHORES_NAME": "Pillar of Gold",
 		"SHRINE_GOLDSHORES_CONTEXT": "Hit Pillar of Gold",
 		"SHRINE_GOLDSHORES_DESCRIPTION": "A rare and expensive pillar that will spawn a Gold Portal once the Teleporter Event has finished, allowing the player to travel to the Gilded Coast.",
 		"SHRINE_GOLDSHORES_LORE": "LORE HERE",
-
 		"SHRINE_COMBAT_NAME": "Pillar of Combat",
 		"SHRINE_COMBAT_CONTEXT": "Hit Pillar of Combat",
 		"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s to fight.</color>",
 		"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
 		"SHRINE_COMBAT_DESCRIPTION": "When activated by a survivor a group of enemies already found in the stage will spawn around the Pillar of Combat.",
 		"SHRINE_COMBAT_LORE": "LORE HERE",
-
 		"SHRINE_PROTECTION_NAME": "Pillar of Warding",
 		"SHRINE_PROTECTION_CONTEXT": "Hit Pillar of Warding",
 		"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
 		"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
-
 		"SHRINE_CLEANSE_NAME": "Cleansing Pool",
 		"SHRINE_CLEANSE_CONTEXT": "Use Cleansing Pool",
 		"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>You have cleansed yourself of {1}.</color>",
 		"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has cleansed themself of {1}.</color>",
 		"SHRINE_CLEANSE_DESCRIPTION": "Allows survivors to sacrifice a random Lunar item or Lunar Equipment in exchange for a Pearl item.",
 		"SHRINE_CLEANSE_LORE": "LORE HERE",
-
 		"GOLDTOTEM_NAME": "Halcyon Beacon",
 		"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
 		"GOLDTOTEM_DESCRIPTION": "When activated by a survivor beacon is restored to reveal the mysteries of the Gilded Coast.",
 		"GOLDTOTEM_LORE": "LORE HERE",
-
 		"ARENA_ADD_MONSTER": "<style=cWorldEvent>[WARNING] {1}s have been released from the Cell..!</style>",
 		"ARENA_ADD_ITEM": "<style=cWorldEvent>[WARNING] {1} has been integrated into the Cell...!</style>",
 		"ARENA_END": "<style=cWorldEvent>The Cell stabilizes.</style>",
 		"NULL_WARD_NAME": "Cell Vent",
 		"NULL_WARD_CONTEXT": "Open Cell Vent",
-
 		"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
 		"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
-
 		"MOON_BATTERY_SOUL_NAME": "Pillar of Soul",
 		"MOON_BATTERY_SOUL_CONTEXT": "Activate Pillar",
-
 		"MOON_BATTERY_BLOOD_NAME": "Pillar of Blood",
 		"MOON_BATTERY_BLOOD_CONTEXT": "Activate Pillar",
-
 		"MOON_BATTERY_DESIGN_NAME": "Pillar of Design",
 		"MOON_BATTERY_DESIGN_CONTEXT": "Activate Pillar",
-
 		"MOON_BATTERY_MASS_NAME": "Pillar of Mass",
 		"MOON_BATTERY_MASS_CONTEXT": "Activate Pillar",
-
 		"VENDING_MACHINE_NAME": "Eclipse Zero Vending Machine",
 		"VENDING_MACHINE_CONTEXT": "Purchase Refreshing Beverage",
-
 		"LOCKEDMAGE_NAME": "Survivor",
 		"LOCKEDMAGE_CONTEXT": "Free the survivor",
 		"LOCKEDMADE_DESCRIPTION": "A being trapped in time. They can be freed, for a price.",
 		"LOCKEDMAGE_LORE": "LORE HERE",
-
 		"LOCKEDTREEBOT_NAME": "Broken Robot",
 		"LOCKEDTREEBOT_CONTEXT": "Repair",
-
 		"SCAVBACKPACK_NAME": "Scavenger's Sack",
 		"SCAVBACKPACK_CONTEXT": "Open Scavenger's Sack",
 		"SCAVBACKPACK_DESCRIPTION": "Contains 10 items with the chance to be either a common, uncommon, or legendary item.",
 		"SCAVBACKPACK_LORE": "LORE HERE",
-
-
 		"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
 		"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
 		"DRONE_GUNNER_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance shooting nearby targets.",
 		"DRONE_GUNNER_LORE": "LORE HERE",
-
 		"DRONE_MEGA_INTERACTABLE_NAME": "Broken TC-280",
 		"DRONE_MEGA_CONTEXT": "Repair ???",
 		"DRONE_MEGA_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance shooting or launching missiles at nearby targets. It is more durable, deals more damage, and is more expensive than both the Gunner and Missile drones.",
 		"DRONE_MEGA_LORE": "LORE HERE",
-
 		"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healing Drone",
 		"DRONE_HEALING_CONTEXT": "Repair Healing Drone",
 		"DRONE_HEALING_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance, healing them and close allies. Can only heal one target at a time.",
 		"DRONE_HEALING_LORE": "LORE HERE",
-
 		"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Missile Drone",
 		"DRONE_MISSILE_CONTEXT": "Repair Missile Drone",
 		"DRONE_MISSILE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance launching missiles at nearby targets.",
 		"DRONE_MISSILE_LORE": "LORE HERE",
-
 		"EQUIPMENTDRONE_INTERACTABLE_NAME": "Broken Equipment Drone",
 		"EQUIPMENTDRONE_CONTEXT": "Repair Equipment Drone",
 		"EQUIPMENTDRONE_DESCRIPTION": "A companion that requires the player's current equipment to function and will follow the survivor at a close distance and uses the equipment item on nearby enemies.",
 		"EQUIPMENTDRONE_LORE": "LORE HERE",
-
 		"FLAMEDRONE_INTERACTABLE_NAME": "Broken Incinerator Drone",
 		"FLAMEDRONE_CONTEXT": "Repair Incinerator Drone",
 		"FLAMEDRONE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance and moves towards nearby targets and burns them.",
 		"FLAMEDRONE_LORE": "LORE HERE",
-
 		"EMERGENCYDRONE_INTERACTABLE_NAME": "Broken Emergency Drone",
 		"EMERGENCYDRONE_CONTEXT": "Repair Emergency Drone",
 		"EMERGENCYDRONE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance, healing them and close allies. Can heal multiple targets at once. It is more durable, can heal more rapidly and is more expensive than the healing drone.",
 		"EMERGENCYDRONE_LORE": "LORE HERE",
-
 		"TURRET1_INTERACTABLE_NAME": "Broken Gunner Turret",
 		"TURRET1_CONTEXT": "Repair Gunner Turret",
 		"TURRET1_DESCRIPTION": "A stationary companion bought with gold that shoots at nearby targets. It is more powerful than the Gunner drone.",
 		"TURRET1_LORE": "LORE HERE",
-
 		"PORTAL_SHOP_NAME": "Blue Portal",
 		"PORTAL_SHOP_CONTEXT": "Enter Blue Portal",
 		"PORTAL_GOLDSHORES_NAME": "Gold Portal",
@@ -329,11 +263,9 @@
 		"PORTAL_GENERIC_CONTEXT": "Enter Portal",
 		"ZIPLINE_ENTER_CONTEXT": "Enter Quantum Tunnel",
 		"ZIPLINE_EXIT_CONTEXT": "Exit Quantum Tunnel",
-
 		"PICKUP_LUNAR_COIN": "Lunar Coin",
 		"LUNAR_COIN_PICKUP_CONTEXT": "Pick up Lunar Coin",
 		"PICKUP_LUNAR_COIN_DESCRIPTION": "A <sprite name=\"LunarCoin\" tint=1>Lunar Coin. Radiates a mysterious energy. Used as currency.",
-
 		"COST_NONE_FORMAT": "",
 		"COST_MONEY_FORMAT": "${0}",
 		"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
@@ -346,90 +278,67 @@
 		"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted Key",
 		"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Encrusted Key",
 		"FIREBALL_VEHICLE_EXIT_CONTEXT": "Detonate",
-
 		"ARTIFACT_TRIAL_CONTROLLER_NAME": "Unknown Artifact",
 		"ARTIFACT_TRIAL_CONTROLLER_CONTEXT": "Activate Unknown Artifact...?",
-
 		"PORTAL_DIALER_NAME": "Compound Generator",
 		"PORTAL_DIALER_CONTEXT": "Cycle Compound",
-
 		"PORTAL_DIALER_LAPTOP_NAME": "Laptop",
 		"PORTAL_DIALER_LAPTOP_CONTEXT": "Submit Formula",
 		"PORTAL_DIALER_LAPTOP_DESCRIPTION": "Submit the entered formula...?",
-
 		"LUNAR_TELEPORTER_NAME": "Primordial Teleporter",
 		"LUNAR_TELEPORTER_SHIFT": "Shift Destination",
 		"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Activate Primordial Teleporter..?",
 		"LUNAR_TELEPORTER_END_CONTEXT": "Enter Primordial Teleporter",
-
 		"SCRAPPER_NAME": "Scrapper",
 		"SCRAPPER_CONTEXT": "Scrap Items",
 		"SCRAPPER_POPUP_TEXT": "<b>Scrapper V1-4</b>\n<i><style=cSub><size=75%>Turn anything into recyclable scrap!</size></style></i>",
 		"SCRAPPER_DESCRIPTION": "Allows survivors to sacrifice items in exchange for pieces of scrap the same rarity as the sacrificed item.",
 		"SCRAPPER_LORE": "LORE HERE",
-
 		"DROPSHIP_NAME": "UES Dropship",
 		"DROPSHIP_CONTEXT": "Escape",
-
 		"MOON_ELEVATOR_NAME": "Platform",
 		"MOON_ELEVATOR_CONTEXT": "Activate platform",
-
 		"VOIDLOCKBOX_NAME": "Encrusted Cache",
 		"VOIDLOCKBOX_CONTEXT": "Open Encrusted Cache",
 		"VOIDLOCKBOX_DESCRIPTION": "Only spawns when a survivor holds the void item \"Encrusted Key\" and will drop a Void Potential item.",
 		"VOIDLOCKBOX_LORE": "LORE HERE",
-
 		"VOID_CHEST_NAME": "Void Cradle",
 		"VOID_CHEST_CONTEXT": "Open Void Cradle",
 		"VOID_CHEST_DESCRIPTION": "Consumes 50% of the survivor's HP and will spawn 1 void item and release up to 4 Void Infestors.",
 		"VOID_CHEST_LORE": "LORE HERE",
-
 		"VOID_TRIPLE_NAME": "Void Potential",
 		"VOID_TRIPLE_CONTEXT": "Release Void Potential",
 		"VOID_TRIPLE_DESCRIPTION": "Consumes 50% of the survivor's HP and will generate a Void Potential Orb.",
 		"VOID_TRIPLE_LORE": "LORE HERE",
-
 		"OPTION_PICKUP_INTERACTION_PROMPT": "Collapse Void Potential",
 		"OPTION_PICKUP_UNKNOWN_NAME": "Void Potential",
 		"OPTION_PICKUP_HEADER": "Collapsing Potential Vectors...",
-
 		"PICKUP_VOID_COIN": "Void Marker",
 		"VOID_COIN_PICKUP_CONTEXT": "Pick up Void Marker",
 		"COST_VOIDCOIN_FORMAT": " <sprite name=\"VoidCoin\" tint=1>{0}",
-
 		"PORTAL_VOID_NAME": "Void Portal",
 		"PORTAL_VOID_CONTEXT": "Enter Void Portal",
-
 		"VOIDCOINBARREL_NAME": "Stalk",
 		"VOIDCOINBARREL_CONTEXT": "Crack this sucker open!",
-
 		"FROG_NAME": "Frog",
 		"FROG_CONTEXT": "Pet the frog",
-
 		"DEEPVOIDBATTERY_NAME": "Deep Void Signal",
 		"DEEPVOIDBATTERY_CONTEXT": "Activate Deep Void Signal",
-
 		"PORTAL_DEEPVOID_NAME": "Deep Void Portal",
 		"PORTAL_DEEPVOID_CONTEXT": "Enter Deep Void Portal",
-
 		"PORTAL_VOIDOUTRO_NAME": "Portal?",
 		"PORTAL_VOIDOUTRO_CONTEXT": "Leave",
-
 		"VOIDCAMPCENTER_NAME": "Void Seed",
 		"VOIDCAMPCENTER_CONTEXT": "Deactivate",
-
 		"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Emerge",
-
 		"CATEGORYCHEST2_HEALING_NAME": "Large Chest - Healing",
 		"CATEGORYCHEST2_HEALING_CONTEXT": "Open Large Chest - Healing",
 		"CATEGORYCHEST2_HEALING_DESCRIPTION": "Pricier, rarer Chest than the Small Healing Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary healing item.",
 		"CATEGORYCHEST2_HEALING_LORE": "LORE HERE",
-
 		"CATEGORYCHEST2_DAMAGE_NAME": "Large Chest - Damage",
 		"CATEGORYCHEST2_DAMAGE_CONTEXT": "Open Large Chest - Damage",
 		"CATEGORYCHEST2_DAMAGE_DESCRIPTION": "Pricier, rarer Chest than the Small Damage Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary damage item.",
 		"CATEGORYCHEST2_DAMAGE_LORE": "LORE HERE",
-
 		"CATEGORYCHEST2_UTILITY_NAME": "Large Chest - Utility",
 		"CATEGORYCHEST2_UTILITY_CONTEXT": "Open Large Chest - Utility",
 		"CATEGORYCHEST2_UTILITY_DESCRIPTION": "Pricier, rarer Chest than the Small Utility Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary utility item.",
