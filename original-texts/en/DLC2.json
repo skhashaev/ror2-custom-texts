@@ -1,0 +1,636 @@
+﻿{
+    "strings": {
+        "DLC2_NAME": "Seekers of the Storm",
+        "DLC2_DESCRIPTION": "Adds content from the \u2019Seekers of the Storm\u2019 expansion to the game.",
+
+        "ARTIFACT_DEVOTION_NAME": "Artifact of Devotion",
+        "ARTIFACT_DEVOTION_DESCRIPTION": "Replace broken drones with Lemurian Eggs. Offer an item to gain followers.",
+
+        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_NAME": "Trial of Devotion",
+        "ACHIEVEMENT_OBTAINARTIFACTDEVOTION_DESCRIPTION": "Complete the Trial of Devotion.",
+
+        "ARTIFACT_DELUSION_NAME": "Artifact of Delusion",
+        "ARTIFACT_DELUSION_DESCRIPTION": "Risk your items after completing the teleporter event in a test of memory to gain more items.",
+
+        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_NAME": "Trial of Delusion",
+        "ACHIEVEMENT_OBTAINARTIFACTDELUSION_DESCRIPTION": "Complete the Trial of Delusion.",
+
+        "DELUSION_MEMORYGAME_PROMPT": "Remember Wisely",
+        "DELUSION_MEMORYGAME_HEADER": "Remember Wisely",
+
+        "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "Prime Meridian",
+        "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "Defeated the False Son.",
+
+        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "Commando: Cleared Prime Meridian",
+        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "As Commando, complete the Event on Prime Meridian",
+
+        "ACHIEVEMENT_BANDIT2CLEARMERIDIANEVENT_NAME": "Bandit: Cleared Prime Meridian",
+        "ACHIEVEMENT_BANDIT2CLEARMERIDIANEVENT_DESCRIPTION": "As Bandit, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_CAPTAINCLEARMERIDIANEVENT_NAME": "Captain: Cleared Prime Meridian",
+        "ACHIEVEMENT_CAPTAINCLEARMERIDIANEVENT_DESCRIPTION": "As Captain, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_NAME": "Commando: Cleared Prime Meridian",
+        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_DESCRIPTION": "As Commando, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_CROCOCLEARMERIDIANEVENT_NAME": "Acrid: Cleared Prime Meridian",
+        "ACHIEVEMENT_CROCOCLEARMERIDIANEVENT_DESCRIPTION": "As Acrid, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_ENGICLEARMERIDIANEVENT_NAME": "Engineer: Cleared Prime Meridian",
+        "ACHIEVEMENT_ENGICLEARMERIDIANEVENT_DESCRIPTION": "As Engineer, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_HUNTRESSCLEARMERIDIANEVENT_NAME": "Huntress: Cleared Prime Meridian",
+        "ACHIEVEMENT_HUNTRESSCLEARMERIDIANEVENT_DESCRIPTION": "As Huntress, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_LOADERCLEARMERIDIANEVENT_NAME": "Loader: Cleared Prime Meridian",
+        "ACHIEVEMENT_LOADERCLEARMERIDIANEVENT_DESCRIPTION": "As Loader, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_MAGECLEARMERIDIANEVENT_NAME": "Artificer: Cleared Prime Meridian",
+        "ACHIEVEMENT_MAGECLEARMERIDIANEVENT_DESCRIPTION": "As Artificer, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_MERCCLEARMERIDIANEVENT_NAME": "Mercenary: Cleared Prime Meridian",
+        "ACHIEVEMENT_MERCCLEARMERIDIANEVENT_DESCRIPTION": "As Mercenary, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_TOOLBOTCLEARMERIDIANEVENT_NAME": "MUL-T: Cleared Prime Meridian",
+        "ACHIEVEMENT_TOOLBOTCLEARMERIDIANEVENT_DESCRIPTION": "As MUL-T, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_TREEBOTCLEARMERIDIANEVENT_NAME": "Rex: Cleared Prime Meridian",
+        "ACHIEVEMENT_TREEBOTCLEARMERIDIANEVENT_DESCRIPTION": "As Rex, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_RAILGUNNERCLEARMERIDIANEVENT_NAME": "Railgunner: Cleared Prime Meridian",
+        "ACHIEVEMENT_RAILGUNNERCLEARMERIDIANEVENT_DESCRIPTION": "As Railgunner, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_VOIDSURVIVORCLEARMERIDIANEVENT_NAME": "「V??oid Fiend』: Cleared Prime Meridian",
+        "ACHIEVEMENT_VOIDSURVIVORCLEARMERIDIANEVENT_DESCRIPTION": "As 「V??oid Fiend』, complete the Event on Prime Meridian.",
+
+        "ACHIEVEMENT_BARBECUEQUANTITYBISONINRUN_NAME": "CHEF: Barbecued Bison Recipe Complete",
+        "ACHIEVEMENT_BARBECUEQUANTITYBISONINRUN_DESCRIPTION": "As CHEF complete 10 recipes by searing an oiled bison with Sear.",
+
+        "ACHIEVEMENT_BURNMITHRIX_NAME": "CHEF: It's Getting Hot In Here!",
+        "ACHIEVEMENT_BURNMITHRIX_DESCRIPTION": "As CHEF apply 20 stacks of Burn at once to the final boss.",
+
+        "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_NAME": "CHEF: You've Always Been Crazy",
+        "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_DESCRIPTION": "As CHEF hit five airborne enemies with one instance of Roll.",
+
+        "ACHIEVEMENT_UNLOCKFALSESON_NAME": "Purified Freedom",
+        "ACHIEVEMENT_UNLOCKFALSESON_DESCRIPTION": "Purify the Heart of the False Son using the Halcyon Seed.",
+
+        "ACHIEVEMENT_ACTIVATECHEF_NAME": "Order Up!",
+        "ACHIEVEMENT_ACTIVATECHEF_DESCRIPTION": "Complete the Wok\u2019s recipe in Reformed Pillar.",
+
+        "ACHIEVEMENT_OBTAINARTIFACTREBIRTH_NAME": "Experienced Rebirth",
+        "ACHIEVEMENT_OBTAINARTIFACTREBIRTH_DESCRIPTION": "Gain the power of another life by offering to the Pillar of Rebirth.",
+
+        "ARTIFACT_REBIRTH_NAME": "Artifact of Rebirth",
+        "ARTIFACT_REBIRTH_DESCRIPTION": "Descend to Petrichor V with gifts from a previous life.",
+        "ARTIFACT_REBIRTH_PARTYMEMBER_NAME": "Stored Gift",
+        "ARTIFACT_REBIRTH_UNKNOWN_NAME": "Unknown Gift",
+        "ARTIFACT_REBIRTH_UNKNOWN_DESCRIPTION": "Return to Meridian to store a greater gift.",
+
+        "ACHIEVEMENT_DEFEATFALSESON_NAME": "King of the Hill",
+        "ACHIEVEMENT_DEFEATFALSESON_DESCRIPTION": "Journey to the Prime Meridian and defeat the False Son.",
+
+        "WOK_NAME": "CHEF's Wok",
+        "WOK_CONTEXT_STRING": "Add Ingredient",
+
+        "MAP_VILLAGE_TITLE": "Shattered Abodes",
+        "MAP_VILLAGE_SUBTITLE": "Ground Zero",
+        "MAP_VILLAGE_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n#Reading image for text... done.\nTranscribing data... done.\nTranslating text... done. [1 exception raised]\nComplete: outputting results.</style>\n\nTell us [world below] of the storms above,\nHow wurms ride the skies to save,\nthat faith is shown in the flash of\nlightning and heresy cowers in cave.\n\nHide from us [hated moon]!\nOur hands bring forth beauty,\nchildren sing of the storm\u2019s bright light,\ndefeated enemy shrinks away bloody!\n\nTribute is given to [him] who saves,\nGolden gifts from the [world below]\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
+
+        "MAP_VILLAGENIGHT_TITLE": "Disturbed Impact",
+        "MAP_VILLAGENIGHT_SUBTITLE": "Meter of the Restless",
+        "MAP_VILLAGENIGHT_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n# Reading image for text...done [5 exceptions raised]\n# Transcribing data...done.\n# Translating text...done. [1 exception raised]\nComplete: outputting results.</style>\n\n[The world] betrayed us.\nOur enemies hound us and covet our blood.\nOur tribute has gutted us.\nWhere is our salvation?\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
+
+        "MAP_HABITATFALL_TITLE": "Golden Dieback",
+        "MAP_HABITATFALL_SUBTITLE": "March of the Fallen",
+        "MAP_HABITATFALL_LORE": ">  Automated report 9fd5adweadae3dadfe23afe233af345fd234 ius now available from site record 906g2222easda21jda323cv32la5790ad4fa23ad.\n> > Please refer to record 906g2222easda21jda323cv32la5790ad4fa23ad for additional personnel details during your review.\n> Report Type: Transcription\n> - Source: 906g2222easda21jda323cv32la5790ad4fa23ad (Personal Suit Recorder)\n> Priority: Medium\n> Report Content:\n\n-- Beginning of Excerpt Flagged for Review --\n\nAdams: \"…they just keep coming Sergeant!\"\n\nSgt. Wylbies: \"Activate all the drones and turrets!\"\n\nAdams: \"That’s for the rallypoint sir!\"\n\nSgt. Wylbies: \"You want to die to a [REDACTED] insect Adams? Activate all the drones!\"\n\nAdams: \"Sir… the ones we just killed…\"\n\nSgt. Wylbies: \"I see it. Reload! We have a few minutes before they-\"\n\n-- End of Recording --\n\n-- End of Excerpt Flagged for Review --\n\n> Please refer to report 23kf43jkm3k34klao0we21495 for full audio excerpt.\n",
+
+        "MAP_LEMURIANTEMPLE_TITLE": "Reformed Pillar",
+        "MAP_LEMURIANTEMPLE_SUBTITLE": "Shadow of the Savior",
+        "MAP_LEMURIANTEMPLE_LORE": "<style=cMono>\nFIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input... done.\n# Reading image for text... done.\n# Transcribing data... done.\n# Translating text... done. [7 exceptions raised]\nComplete: outputting results.</style>\n\nYou all sit at the blessed Foot of the [Colossus].\n\nWhat is that Elder?\n\nThe [Colossus] is a gift built by the humans to honor [the hero].\n\nWho is [the hero]?\n\nThe Bulwark of the Weak. Savior across the deep darkness. Light against [death]. [The hero] saved all that we can see and all we have are [his].\n\nWhy is the [Colossus] here?\n\nThe [Colossus] is here for it is right to be here. It is right for us to guard it so the [great sin] should not break free.\n\nWhy do we guard it, Elder?\n\nSo that he may love us, as we love him.\n\n<style=cMono>Translation Errors: 4</style>\n# [Colossus] could not be fully translated.\n# [Death] could not be fully translated.\n# [The Hero] could not be fully translated.\n# [Great Sin] could not be fully translated.\n",
+
+        "MAP_HABITAT_TITLE": "Treeborn Colony",
+        "MAP_HABITAT_SUBTITLE": "Path of the Protector",
+        "MAP_HABITAT_LORE": "> Automated report 9f6d5d41671c241h13b2339e42mf23deb9 is now available from site record 741c655e2d36c5f6973fd3a36aa0f950.\n> Please refer to record 741c655e2d36c5f6973fd3a36aa0f950 for additional personnel details during your review.\n> Report Type: Transcription\n> - Source : 741c655e2d36c5f6973fd3a36aa0f950 (Personal Suit Recorder)\n> Priority: High\n> Foreign language detected.\n> Operating Machine-generated Transcription > base Vernacular Profile \"Alloy Vulture.\"\n$ Cleaning audio... done.\n$ Asserting translation... error.\n> Several errors detected. Audio generated with error in translation contained.\n> Text-to-speech enabled for foreign elements.\n> Machine-generated Transcription Complete!\n> Report Content:\n\n-- Beginning of Excerpt Flagged for Review --\n\nEmil: \"W-where am I? What\u2019s holding me? Wh-\"\n\nTranslated: \"Stop struggling invader. Your purpose is not realized.\"\n\nEmil: \"Purpose? Flying? What the- Vulture? Put me down put me down put me- AHHHHHH.\"\n\nTranslated: \"Beetles. Listen to your Queen!\"\n\nEmil: \"My legs! I can\u2019t feel my legs! Dropped from the [REDACTED] sky, [REDACTED]!\"\n\nTranslated: \"Do we not watch the great [Colossus]? Do we not serve the wishes of [the hero]?\"\n\nEmil: \"Get the [REDACTED] away from me!\"\n\nTranslated: \"Our purpose is to guard the great [Colossus] and the paradise [the hero] provides. We defend [his] as [he] defends us. It is our beloved duty.\"\n\nEmil: \"Insane planet with insane- are we on a tree?\"\n\nTranslated: \"Yet [he] is gone. Gone as the invaders come again!\"\n\nEmil: \"Great. Looks like a Queen. Smells like a Queen, and I\u2019m surrounded by [REDACTED] worker drones.\"\n\nTranslated: \"He is gone. His Guardians aimless, and we-\"\n\nEmil: \"Bloody hell. Get off my leg! Step on me again and I\u2019ll kill you! Where\u2019s my gun, I\u2019ll-\"\n\nTranslated: \"The invader is a gift to remind you of the threat we face and yours to handle as you wish.\"\n\nEmil: \"No! Wait. Get away from me! No no NO-\"\n\n-- End of Recording --\n\n-- End of Excerpt Flagged for Review --\n\n<style=cMono>Local audio transcriptions complete.\n\nTranslation Errors: 2</style>\n# [Colossus] could not be fully translated.\n# [The Hero] could not be fully translated.\n",
+
+        "MAP_MERIDIAN_TITLE": "Prime Meridian",
+        "MAP_MERIDIAN_SUBTITLE": "Relic of the False Son",
+        "MAP_MERIDIAN_LORE": "Brother, raise your melancholic head. She has left, but She shall return. Witness what I shall give to you and Her.\n\n... they are the start of three great works. A gift for us all! I see your sadness, brother. Your inattention hurts the Designs we build. I build for us not only a sign of our friendship, but tools for making our weight easier.\n\nYes! Three great statues built in our images to house our respective strengths. The first, to catalogue my great Designs. Yours to hold and magnify your talent with Soul. The last for Her so that She - \n\nNo. She does not know I am building this great gift for us. When She returns, we will celebrate and you will not be so - \n\n...\n\nYour point is made. We will decide together when to reveal Her statue and you will have say over where it will reside. I will even allow you to affect its Design.\n\nIf it will have you look more kindly upon our work, I will even let you hold onto my Designs so that you may take time in creating these Constructs. Remember, brother, despite your soft heart, they must be tools and shields for us to survive. They are nothing more than that.\n\nGood. Then go and bring our great works to life! I will inform you when this gift is complete.",
+
+        "MAP_LAKES_TITLE": "Verdant Falls",
+        "MAP_LAKES_SUBTITLE": "Ground Zero",
+        "MAP_LAKES_LORE": "<style=cMono>\nWelcome to DataScraper (v3.5.16 \u2013 beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\nOutputting local audio transcriptions...\n</style>\n\nDay 02\nAll day Garret curses about losing our ship, our way, our cargo. From what I\u2019ve heard about this planet, it could have been worse. We\u2019re surviving on plants our xenobiologist would have loved to study. Some sort of High Court signal is surveying this hell hole. Seems like a stretch, but I hope they look this way and are feeling generous.\nThrough trial and error, we discovered the most edible plant - they\u2019re disgusting raw, but after a sear they\u2019re tolerable, and their smell - a smell so sweet and powerful it saturates our filters. Reminds me of strawberries. Warmed in the sun.\nAt least we\u2019re alive.\n\nDay 03\nMy mouth tastes bitter unless I\u2019m eating. Garret reports the same, his paranoia grows daily. He swears he sees the sap quiver and bounce every time we hack open these plants.\n\nDay 07\nTo be honest I\u2019m starting to worry.\nMore exhausted each day.\nTerrible stomach aches at night.\nOf course we suspect the food but what other choice do we have?\nMy skin has an orange tint to it... maybe it\u2019s my vision.\nAll I smell lately is the sweetness of the sap.\nI laugh I\u2019m not getting sick.\nI\u2019d hate for Garret to be right about something.\n\nDay 08\nWe\u2019re alive.\nI\u2019m filled with hope.\nA High Court scout... or did she say seeker? Whatever she is, found our camp. A bit sharp around the edges but gave us some food. I savored every bite. She said it\u2019s not safe to travel at night and will lead us out of this mess in the morning.\nUnderground.\nWith real food to eat.\n\nKelvin out.",
+
+        "MAP_LAKESNIGHT_TITLE": "Viscous Falls",
+        "MAP_LAKESNIGHT_SUBTITLE": "Seeker\u2019s Setback",
+        "MAP_LAKESNIGHT_LORE": "The last rays of light retreated quickly behind the tall stalks, slipping up the cliffs of the bowled valley.\nDarkness dug into each crevice, nesting in the cold metal of the wreckage, pooling in the recently abandoned cave.\nSoft sounds in the cave tipped supply boxes, slid wetly over the ring of stone marking the firepit, and bounced hungrily onto torn ration packs.\nSoon they came in mass, leaving slick splatters.",
+
+        "MAP_ARTIFACTWORLD01_TITLE": "Hidden Realm: Bulwark\u2019s Ambry",
+        "MAP_ARTIFACTWORLD01_SUBTITLE": "Aphelian Research",
+        "MAP_ARTIFACTWORLD01_LORE": "You already saved them, yet still you offer them more...something only for them. Can these righteous creatures not exist in harmony for your sake?\nI wonder what it is that changed in you. Have you forgotten what it was like to create something together? Do you not miss it? Or is there a weight upon you that I am unaware of?\nToo often I find my mind occupied with your actions, for they affect us both. Yet you seem to care more for the wellness of these unimportant beings.\n     What does that make me?\n     Do you not see the gulf beginning to take shape between us?\n     Do you not feel it?\n     I do.",
+
+        "MAP_ARTIFACTWORLD02_TITLE": "Hidden Realm: Bulwark\u2019s Ambry",
+        "MAP_ARTIFACTWORLD02_SUBTITLE": "Tar Research",
+        "MAP_ARTIFACTWORLD02_LORE": "Do your foolish ways truly know no bounds? Our pillars cannot save us from something like this. How much will it cost us for you to protect them from their own doom? You risk everything for these beings, they\u2019re undeserving of your time, your effort, and your love.\nDo you not understand what we are? The power we wield?\nIt was not designed for this.\nI can\u2019t help but wonder if it\u2019s purposeful. My attempts to understand you have failed time and time again. Do you fault me for what I did? Is this my punishment?\nSo be it.\nIn your selfish, senseless fascination you now endanger us both.\nNo matter what they call you, you are not their savior.\nYou are their ruin.",
+
+        "MAP_ARTIFACTWORLD03_TITLE": "Hidden Realm: Bulwark\u2019s Ambry",
+        "MAP_ARTIFACTWORLD03_SUBTITLE": "Wisp Research",
+        "MAP_ARTIFACTWORLD03_LORE": "I will not hesitate to craft another cage to contain these pests you allow to play with our grand design.\nSurely you notice these...\"creatures\" touch soul. Soul. And still, you grant them such freedom.\nWhy?\nDo they remind you of home? Of what we once shared together in our gardens?\nYou don\u2019t still cast blame upon me so easily...do you?\nAll because of that day. Those worthless creatures. Those worms.\nIs that it?\nAre these creatures your new worms? Is this how you mean things to be? Do you love them more than me, brother?\nANSWER ME!",
+
+        "MAP_HELMINTHROOST_TITLE": "Helminth Hatchery",
+        "MAP_HELMINTHROOST_SUBTITLE": "A Brother\u2019s Respite",
+        "MAP_HELMINTHROOST_LORE": "Massive shining coils shift, red as Mercury blossoms, revealing a sphere of bright molten obsidian glowing inside a bowl of red stone.\nFour stories up a large dark hand reaches through the glassless window, pets the coils and brings the bowl inside.\nStrange tools of silver line the walls alongside endless artifacts freely given, intricately carved, and tenderly loved. His tribute.\nHe pulls an oblong clay jar down, a seal bearing his likeness breaks under his grip with a hiss.\nInside the jar, crackling starseed thorns and dried kifruit skins, their earthy scent fills the smoldering workshop.\nFor the morning star, he reaches into the molten obsidian and pierces the bowl with a starseed thorn from within. A thorn for each fate changed.\nMany thorns and fates later, he tap tap taps a silver tool against the stone of the workshop.\nRed coils in the window shift again, a massive burning eye curiously takes in the room, then it\u2019s open mouth appears in the window, the sudden heat wave sending a song through a ceiling of silver chimes.\nHe places the spiked obsidian ball inside and pats it\u2019s muzzle twice. The gilded wurm is to take the mace to the surface. The obsidian cools in a shaft of putrid moonlight, collecting lunar rage and loneliness.\nFor the handle, he wraps a rod of silver in dried kifruit skins and an eon of freedom, lost to gravity wells long ago.\nFinally, he seals the obsidian weapon with a golden T emblem.\nHis gift. No, his apology.",
+
+        "CHEF_BODY_NAME": "CHEF",
+        "CHEF_BODY_SUBTITLE": "Culinarian Adept",
+        "CHEF_DESCRIPTION": "A survivor of high class, CHEF specializes in only the most exquisite meals and combos. As a culinary master, CHEF uses a variety of practiced skills in tandem for additional benefits.<style=cSub>\r\n\r\n< ! > Dice throws a spinning cleaver that lingers in the air. Use Dice again to recall it, dealing damage on the return trip.\r\n\r\n< ! > Roll into enemies to close the distance, you can’t give a nice Sear from far away. Sear oiled enemies for a much stronger roast. \n\n< ! > Extra oil is sometimes needed to handle bigger meals. Oil can be spread across Petrichor V, allowing you to cook your enemies or freeze them for leftovers!\r\n</style>\r\n",
+        "CHEF_BODY_LORE": "Garret pokes at his food in the mess hall of the quiet ship, anxiously awaiting their orbital entry.\n\nThe CHEF bot behind the counter hums opera poorly. It adds a cooked patty to a tall and precarious pile next to the grill, then slams a raw patty into the grill with a loud SLAP!\n\n\"Even junk gets bored, huh?” Garret said, eyeing the unstable pile of meat.\nThe CHEF bot whirs and snaps to attention, saluting Garret. Its chassis bursts open with a belch of flame.\n\nCHEF bot quickly slams the door shut again, the smell of burnt meat (and hair) fills the mess hall.\n\n\"Can\u2019t believe Kelvin keeps this thing around.\" Garret says testily, eyebrows singed.",
+
+        "CHEF_OUTRO_FLAVOR": "..and so it left, unchanged in every way.",
+        "CHEF_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, warranty expired.",
+
+        "CHEF_PASSIVE_NAME": "CHEF\u2019s Kiss",
+        "CHEF_PASSIVE_DESCRIPTION": "Killing enemies with 2 or more skills cooks them up and drops a <style=cIsHealing>healing</style> food item.",
+
+        "CHEF_PRIMARY_NAME": "Dice",
+        "dlc": null,
+        "CHEF_PRIMARY_DESCRIPTION": "Throw a <style=cIsDamage>piercing</style> cleaver at enemies for <style=cIsDamage>200%</style> damage. Holding the attack <style=cIsDamage>doubles recall damage</style>.",
+        "CHEF_PRIMARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Dice throws cleavers in all directions, dealing <style=cIsDamage>400% damage</style>.",
+        "CHEF_PRIMARY_BOOST_DESCRIPTION_SKILL": "Throws cleavers in all directions, dealing <style=cIsDamage>400% damage</style>.",
+
+        "CHEF_SECONDARY_NAME": "Sear",
+        "CHEF_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Scorch nearby enemies for <style=cIsDamage>600% damage</style>.",
+        "CHEF_SECONDARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Sear scorches nearby enemies and fires three flaming oil blobs dealing <style=cIsDamage>700% damage</style>. Flaming oil blobs leave <style=cIsDamage>ignited oil pools</style> on impact.",
+        "CHEF_SECONDARY_BOOST_DESCRIPTION_SKILL": "Scorch nearby enemies and fire three fireballs dealing <style=cIsDamage>700% damage</style>. Flaming oil blobs leave ignited oil pools on impact.",
+
+        "CHEF_SECONDARY_ALT_NAME": "Ice Box",
+        "CHEF_SECONDARY_ALT_DESCRIPTION": "<style=cIsUtility>Frost</style>. Launch ice cubes for <style=cIsDamage>3x150% damage</style>.",
+        "CHEF_SECONDARY_ALT_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub><style=cIsUtility>Freezing</style>. Boosting Ice Box launches 1 large ice cube for <style=cIsDamage>1500% damage</style>.",
+        "CHEF_SECONDARY_ALT_BOOST_DESCRIPTION_SKILL": "<style=cSub><style=cIsUtility>Freezing</style>. Launches 1 large ice cube for <style=cIsDamage>1500% damage</style>.",
+
+        "CHEF_UTILITY_NAME": "Roll",
+        "CHEF_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Charge the rolling pin to <style=cIsUtility>speed</style> forward, dealing <style=cIsDamage>300%-600% damage</style>.",
+        "CHEF_UTILITY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Roll applies <style=cIsHealth>bleed</style> per second dealing <style=cIsDamage>200% damage</style> to all nearby enemies.",
+        "CHEF_UTILITY_BOOST_DESCRIPTION_SKILL": "<style=cIsHealth>Bleeding.</style> Speed forward while spinning cutlery to deal an additional <style=cIsDamage>200%</style> damage to all nearby enemies.",
+
+        "CHEF_UTILITY_ALT_NAME": "Oil Spill",
+        "CHEF_UTILITY_ALT_DESCRIPTION": "Twirl upwards then slam down, exploding with <style=cIsUtility>oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>Launch again</style> by reactivating this ability before landing, up to <style=cIsDamage>4</style> total.",
+        "CHEF_UTILITY_ALT_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Oil Spill spews ignited or frozen <style=cIsUtility>oil</style>.",
+        "CHEF_UTILITY_ALT_BOOST_DESCRIPTION_SKILL": "Twirl upwards then slam down, exploding with <style=cIsUtility>oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>Launch again</style> by reactivating this ability before landing, up to <style=cIsDamage>4</style> total.",
+
+        "CHEF_SPECIAL_NAME": "Glaze",
+        "CHEF_SPECIAL_DESCRIPTION": "Fire globs of <style=cIsUtility>oil</style> in quick succession, dealing <style=cIsDamage>7x250% damage</style>.",
+
+        "CHEF_SPECIAL_ALT1_NAME": "Yes, CHEF!",
+        "CHEF_SPECIAL_ALT1_DESCRIPTION": "Emit a blast attack dealing <style=cIsDamage>400%</style> damage, inflicting <style=cIsDamage>Ignite</style> or <style=cIsUtility>Frost</style>. <style=cIsUtility>Boosts</style> the next Skill used.",
+
+        "KEYWORD_REVIVE": "<style=cKeywordName>Revive</style><style=cSub>This skill revives one or more dead Survivors.</style>",
+        "KEYWORD_LOWHEALTHPROTECTION": "<style=cKeywordName>Saving Grace</style><style=cSub>All living Survivors gain +7% to all stats. <style=cIsDamage>When you die</style> Saving Grace is consumed and you <style=cIsHealing>revive</style>.",
+        "KEYWORD_GROWTH": "<style=cKeywordName>Growth</style><style=cSub>Enhances the skill by gaining bonus health from items or other sources. Does not benefit from leveling up.</style>",
+        "KEYWORD_LUNARRUIN": "<style=cKeywordName>Lunar Ruin</style><style=cSub>Enemies hit take <style=cIsDamage>+10%</style> more damage from all sources and reduces healing for <style=cIsUtility>5 seconds.</style> <i>Lunar Ruin can stack.</i></style>",
+        "KEYWORD_LUNARLIGHTNING": "<style=cKeywordName>Lunar Lightning</style><style=cSub>Call lightning to strike effected enemies in a 6m radius after a short delay for <style=cIsDamage>150% damage</style> and inflicting <style=cIsUtility>Lunar Ruin</style>.",
+        "KEYWORD_IMPACT": "<style=cKeywordName>Impact</style><style=cSub>Charging this skill and using it in air grants <style=cIsUtility>fall damage immunity</style> and <style=cIsDamage>increases in damage and radius</style> for each second the Survivor is falling.</style>",
+        "KEYWORD_ENERGIZEDCORE": "<style=cKeywordName>Energized Core</style><style=cSub>Triples the benefits of your passive for 4 seconds.</style>",
+        "KEYWORD_CYCLONE": "<style=cKeywordName>Cyclone</style><style=cSub>A <style=cIsUtility>4s</style> vortex that pulls in nearby enemies that <style=cIsDamage>increases in damage</style> and <style=cIsHealing>healing</style> based on time spent flying.</style>",
+        "KEYWORD_EXHILARATE": "<style=cKeywordName>Exhilarate</style>Skill activation after obtaining 6 orbs increases rotation speed and orb damage by 66%.",
+        "KEYWORD_MULTIHIT": "<style=cKeywordName>Multihit</style>Consecutively hit multiple enemies or allies within one skill activation.",
+        "KEYWORD_OIL": "<style=cKeywordName>Oil</style><style=cSub><style=cIsDamage>Slows</style> and <style=cIsDamage>Weakens</style> enemies. Oiled enemies take <style=cIsDamage>quadruple ignite damage</style> if ignited or <style=cIsUtility>Freeze</style> if frosted.",
+        "KEYWORD_OILPOOL": "<style=cKeywordName>Oil Pool</style>Created by abilities that inflict <style=cIsUtility>Oil</style>. Oil Pools can be ignited or frozen to inflict <style=cIsDamage>Burn</style> and <style=cIsutility>Frost</style>. Does not oil enemies.",
+        "KEYWORD_SECONDHELPING": "<style=cKeywordName>Second Helping</style><style=cSub>Reactivating right before landing on a surface causes a perfect Oil Spill that spews <style=cIsUtility>oil</style> in air and increases twirl height.",
+        "KEYWORD_FROST": "<style=cKeywordName>Frost</style><style=cSub>Slows enemies. Upon reaching 6 Frost, all Frost will be consumed and inflicts <style=cIsUtility>Freeze</style>.",
+
+        "SEEKER_BODY_NAME": "Seeker",
+        "SEEKER_BODY_SUBTITLE": "Diviner of House Beyond",
+        "SEEKER_DESCRIPTION": "As a meditative mid-range brawler, Seeker utilizes powerful healing to sustain herself and her team.<style=cSub>\r\n\r\n< ! > Every third Spirit Punch in a row fires a high-damaging explosive burst of Soul. Flow between targets while holding the primary to deal maximum damage.\r\n\r\n< ! > Seeker\u2019s Unseen Hand heals you for every enemy hit. Prioritize enemy groups to maximize healing.\r\n\r\n< ! > Use Sojourn to escape dangerous situations, rush to teammates, or enter the fray. Use Sojourn again to end your flight to deal damage to enemies. While in Sojourn, your health quickly depletes, so use it wisely.\r\n\r\n< ! > Meditate places you in a vulnerable state, but increases ability damage, healing, and more for each successive completion. Positioning and timing are key to empowering you and your teammates. Reach the final gate to revive fallen allies and bless living ones.\r\n<\/style>\r\n",
+        "SEEKER_BODY_LORE": "(\\                                                       \/)\n(--)--------------------------------------(--)\n(\\                                                       \/)\nA new decree.\nSeeker_0222, Diviner of House Beyond, the Herald of your House neglects to report on Zone05_57820.\nThe Herald reported unconfirmed sightings of Blight on the surface.\nWe would see these hysterical rumors extinguished.\nOr perhaps you did not Sanitize the Blight correctly the first time, on Zone04_39666?\nYou know what must be done if Paradise evades our grasp again.\nRecover the Herald only if it does not interfere with your decree and return for reconditioning, report in hand.\nWe look forward to your success superseding their failure.\n\nThird Wing\nHouse Beyond",
+
+        "SEEKER_PASSIVE_NAME": "Inner Strength",
+        "SEEKER_PASSIVE_DESCRIPTION": "Abilities are enhanced with each <style=cIsUtility>Tranquility to a maximum of 7</style>.",
+
+        "SEEKER_PRIMARY_NAME": "Spirit Punch",
+        "SEEKER_PRIMARY_DESCRIPTION": "Fire <style=cIsDamage>piercing</style> disembodied fists at enemies for <style=cIsDamage>250% damage</style>. Every 3rd hit explodes dealing <style=cIsDamage>350% damage</style>.",
+        "SEEKER_PRIMARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every stack of Tranquility increases the damage of Spirit Punch's third hit by <style=cIsDamage>50%</style>.",
+
+        "SEEKER_PRIMARY_ALT1_NAME": "Soul Search",
+        "SEEKER_PRIMARY_ALT1_DESCRIPTION": "Fire tracking orbs at enemies that explodes for <style=cIsDamage>250% damage</style>.",
+
+        "SEEKER_SECONDARY_NAME": "Unseen Hand",
+        "SEEKER_SECONDARY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Launch a <style=cIsDamage>piercing</style> phantasmal hand from the ground, dealing <style=cIsDamage>600% damage</style>. <style=cIsHealing>Heals for 3.5% of the damage dealt</style>.",
+        "chef": null,
+        "SEEKER_SECONDARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Increases the healing of Unseen Hand by <style=cIsHealing>4%</style> for every Tranquility.",
+
+        "SEEKER_SECONDARY_ALT1_NAME": "Soul Spiral",
+        "SEEKER_SECONDARY_ALT1_DESCRIPTION": "Manifest spiraling orbs dealing <style=cIsDamage>150% damage</style>. Hits grant <style=cIsHealing>temporary barrier</style>. <style=cIsUtility>Exhilarate</style> on activation at max orbs.",
+        "SEEKER_SECONDARY_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Soul Spiral's orbs lifetime by <style=cIsDamage>18%</style> and <style=cIsHealing>temporary barrier</style> granted by hitting enemies.",
+
+        "SEEKER_UTILITY_NAME": "Sojourn",
+        "SEEKER_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Take <style=cIsUtility>flight</style> and explode, dealing <style=cIsDamage>500% damage</style>. Exchange <style=cIsHealth>25% health</style> per second for <style=cIsDamage>increased damage</style>.",
+        "SEEKER_UTILITY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Each Tranquility increases Sojourn's explosion radius by <style=cIsUtility>0.5m</style>.",
+
+        "SEEKER_UTILITY_ALT1_NAME": "Reprieve",
+        "SEEKER_UTILITY_ALT1_DESCRIPTION": "Gain <style=cIsHealing>barrier</style> and take <style=cIsUtility>flight</style>. Total <style=cIsHealing>barrier</style> loss or impact creates a <style=cIsUtility>cyclone</style>, <style=cIsHealing>healing</style> allies, and dealing <style=cIsDamage>200% damage</style> per second.",
+        "SEEKER_UTILITY_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Reprieve's <style=cIsUtility>cyclone</style> duration by <style=cIsUtility>0.5s</style>.",
+
+        "SEEKER_SPECIAL_NAME": "Meditate",
+        "SEEKER_SPECIAL_DESCRIPTION": "<style=cIsUtility>Focus your mind</style> to explode <style=cIsDamage>300% damage</style>, <style=cIsHealing>heal nearby allies</style>, and gain <style=cIsUtility>Tranquility</style>. Reaching max Tranquility <style=cIsHealing>Revives</style> and grants <style=cIsHealing>Saving Grace</style>.",
+        "SEEKER_SPECIAL_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Meditate's healing by <style=cIsHealing>4% of maximum health</style>, damage by <style=cIsDamage>200%</style>, and increases in radius.",
+        "SEEKER_SPECIAL_MEDITATE_KEYWORD": "<style=cKeywordName>Focus</style><style=cSub>Complete timed sequences to activate a skill effect. Failing increases this ability's cooldown.",
+
+        "SEEKER_SPECIAL_ALT1_NAME": "Palm Blast",
+        "SEEKER_SPECIAL_ALT1_DESCRIPTION": "<style=cIsUtility>Charge</style> a <style=cIsDamage>piercing</style>, spectral hand that deals <style=cIsDamage>400%-700% damage</style> and <style=cIsHealing>heals</style> allies. <style=cIsDamage>Multihit</style> three characters to gain <style=cIsUtility>Tranquility</style> and <style=cIsHealing>barrier</style>.",
+        "SEEKER_SPECIAL_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases the size of Palm Blast's spectral hand by <style=cIsUtility>15%</style>, damage by <style=cIsDamage>250%</style>, and <style=cIsHealing>healing</style> done to allies.",
+
+        "SEEKER_OUTRO_FLAVOR": "..and so she left, burdened with knowledge.",
+        "SEEKER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, replacement en route.",
+
+        "OPTION_SEEKER_SOJOURNTOGGLE": "<style=cUserSetting>Toggle Seeker Sojourn and Reprieve</style>",
+        "OPTION_SEEKER_SOJOURNTOGGLE_DESCRIPTION": "Enable and disable Seeker's Sojourn and Reprieve abilities by tapping the Utility Skill button once instead of holding it.",
+
+        "FALSESON_BODY_NAME": "False Son",
+        "FALSESONBOSS_BODY_NAME": "False Son",
+        "FALSESON_BODY_SUBTITLE": "The Shattered Heir",
+        "FALSESON_BOSS_BODY_SUBTITLE": "Eye of the Storm",
+        "FALSESON_DESCRIPTION": "The False Son is a slow but stalwart close-range warrior. With extreme health and defense, False Son can weather any storm. Use False Son\u2019s durability to stay in the fray and capitalize on his slow but deadly skills.<style=cSub>\r\n\r\n< ! > False son closes the distance on enemies with dashes to deliver destruction with his lunar club. Charge the club swing for an explosive slam.\r\n\r\n< ! > Laser of the Father and Club of the Forsaken slowly charge for high damage. Health items increase your Lunar Spike count, increasing your power. Try building into items that increase your health and durability.\r\n\r\n< ! > For each Lunar Spike you have you gain attack speed and armor and using the Lunar Spikes depletes those bonuses. The more depleted slots of Lunar Spikes you have, the quicker you will move and heal.\r\n\r\n< ! > Utilize the long-range potential of your laser and lunar spikes to pick off out-of-reach aerial enemies.\r\n<\/style>\r\n",
+        "FALSESON_BODY_LORE": "Songs turned to screams,\nClaws which carved my body tore it apart.\nNow the Moon\u2019s light is heavy with his howling hatred,\nand the silence haunts me.\nMade in his image, I was to be a guardian.\nA replacement, now a disappointment.\nThey shudder at my approach.\nMy path laid empty.\n\nWhere they desired divinity, I found contempt.\nWho they called unclean, I call unchained.\nTones of gold and stone open to me,\nTrails without shards and curses.\n\nWith my eye I see a new way.\nWith my club I create a new path.",
+
+        "FALSESON_PASSIVE_NAME": "Lunar Tampering",
+        "FALSESON_PASSIVE_DESCRIPTION": "Unused Lunar Spikes give <style=cIsUtility>+5% attack speed</style> and <style=cIsUtility>+2.5 armor</style>. Used spikes give <style=cIsUtility>+5% movement speed</style> and <style=cIshealing>+2.5 health regeneration</style>.",
+
+        "FALSESON_PRIMARY_NAME": "Club of the Forsaken",
+        "FALSESON_PRIMARY_DESCRIPTION": "Swing for <style=cIsDamage>450% damage</style>. Hold the primary and secondary skills to charge a slam for <style=cIsDamage>1000% damage</style>.",
+
+        "FALSESON_SECONDARY_NAME": "Lunar Spikes",
+        "FALSESON_SECONDARY_DESCRIPTION": "<style=cIsUtility>Lunar Ruin</style>. <style=cIsUtility>Agile</style>. Throw a Lunar Spike for <style=cIsDamage>200% damage.</style> Gain more Lunar Spikes through <style=cIsHealing>Growth</style>.",
+
+        "FALSESON_SECONDARY_ALT1_NAME": "Lunar Stakes",
+        "FALSESON_SECONDARY_ALT1_DESCRIPTION": "<style=cIsUtility>Lunar Ruin</style>. Fire a <style=cIsDamage>piercing</style>, <style=cIsDamage>lightning</style> infused Lunar Stake for <style=cIsDamage>300% damage</style>. Gain more Lunar Stakes through <style=cIsHealing>Growth</style>. Counts as <style=cIsUtility>2</style> Lunar Spikes.",
+
+        "FALSESON_UTILITY_NAME": "Step of the Brothers",
+        "FALSESON_UTILITY_DESCRIPTION": "Dash a short distance, generating an explosion of <style=cIsDamage>200% damage</style> for every enemy hit. <style=cIsUtility>Two uses</style>.",
+
+        "FALSESON_UTILITY_ALT1_NAME": "Meridian's Will",
+        "FALSESON_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Teleport</style> and explode for <style=cIsDamage>150% damage</style> and <style=cIsUtility>pull</style> enemies. Triple your passive's benefits for <style=cIsUtility>4s</style>. <style=cIsHealing>Growth</style> increases this duration.",
+
+        "FALSESON_SPECIAL_NAME": "Laser of the Father",
+        "FALSESON_SPECIAL_DESCRIPTION": "<style=cIsUtility>Charge</style> a rapidly hitting laser dealing <style=cIsDamage>240%-1400% damage</style> for <style=cIsUtility>4s</style> and <style=cIsUtility>refill</style> Lunar Spikes. Increases in <style=cIsUtility>duration</style> through <style=cIsHealing>Growth</style>.",
+
+        "FALSESON_SPECIAL_ALT1_NAME": "Laser Burst",
+        "FALSESON_SPECIAL_ALT1_DESCRIPTION": "Fire a piercing laser for <style=cIsDamage>1250% damage</style>, refilling <style=cIsUtility>50%</style> Lunar Spikes. Increases in stock by <style=cIsHealing>Growth</style>.",
+
+        "FALSESON_OUTRO_FLAVOR": "..and so he left, drawn to a call in the darkness.",
+        "FALSESON_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, a gift unspent.",
+
+        "CORRUPTIONSPIKE_BODY_NAME": "Lunar Rain",
+
+        "ITEM_BOOSTALLSTATS_NAME": "Growth Nectar",
+        "ITEM_BOOSTALLSTATS_PICKUP": "Your buffs grant an increase to ALL of your stats.",
+        "ITEM_BOOSTALLSTATS_DESC": "Grants <style=cIsUtility>4%</style> increase to <style=cIsUtility>ALL stats</style> for each buff, up to a maximum of <style=cIsUtility>4</style> <style=cStack>(+4 per stack)</style>.",
+        "ITEM_BOOSTALLSTATS_LORE": "ONE MASK.\nLARGE, OF OUR RESTING BONES\nI PULL FROM DEEP FERTILE SOIL.\nI COAT IT IN A ROYAL GLAND - THIS IS FOR GROWTH.\nI GIVE IT RED LENSES - THESE ARE FOR PRECISION\nI STEEP IN SHINING NECTAR - THIS IS FOR ASCENSION.\nSTAND AND BE WELCOME, FIRST DAUGHTER OF PARADISE.\nLET US SHOW YOU OUR GARDEN.\nAND YOU WILL SHOW US HOW TO PROTECT IT.\nTO THE COLONY THE SEED, TO US THE NECTAR.",
+
+        "ITEM_EXTRASHRINEITEM_NAME": "Chance Doll",
+        "ITEM_EXTRASHRINEITEM_PICKUP": "Gain 40% chance to increase item rarity at Pillars of Chance.",
+        "ITEM_EXTRASHRINEITEM_DESC": "On Pillar of Chance success, <style=cIsUtility>40%</style> <style=cStack>(+10% per stack)</style> chance to get higher rarity items.",
+        "ITEM_EXTRASHRINEITEM_LORE": "Two reptilian figures walk deep into Stone territory, the smaller one carries a stone-string doll. Cairns and more dolls decorate the path.\n---\nI do as you say, I bring my friend Pebl, but I do not like it.\nFather, must we leave her?\n\nHumling, we must return Pebl to her first family.\nTo honor our agreement, we return her before your Humling days are behind you.\n\nI do as you say, I think she will like leaning here, do you?\nFather, where is her family?\nHumling, when the demon fell from the Sky, many families hid themselves away.\nTo protect her, her family will see the demon resolved before returning.\nI do as you say.\nFather, I will miss her.",
+        "ITEM_EXTRASHRINEITEM_SUCCESS_FORMAT": "<color=#53ff00>{0} offered to the pillar and was greatly rewarded!</color>",
+        "ITEM_EXTRASHRINEITEM_SUCCESS_FORMAT_2P": "<color=#53ff00>You hit the pillar and are greatly rewarded!</color>",
+
+        "ITEM_GOLDONSTAGESTART_NAME": "War Bonds",
+        "ITEM_GOLDONSTAGESTART_PICKUP": "Bombard boss events with missiles. The more gold earned, the more UES support is granted.",
+        "ITEM_GOLDONSTAGESTART_DESC": "During boss events, <style=cIsUtility>5</style> missiles bombard the area, dealing <style=cIsDamage>2.5% <style=cStack>(+2.5% per stack)</style> of boss' Max Health in damage</style>. Before the boss event, gain additional missiles, up to a maximum of <style=cIsUtility>20</style> <style=cStack>(+5 per stack)</style>, per <style=cIsUtility>50</style> gold gained. <style=cIsUtility>Gold requirement scales over time.</style>",
+        "ITEM_GOLDONSTAGESTART_LORE": "Welcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\n\nATTN: VALUED SOLDIER\nDue to short-term budgetary constraints, and evolving business realities, your salary will be converted to official UES Bonds! For your convenience, this process occurs automatically. Transfer fees may apply. Ask your XO for details on further exciting investment opportunities. As the proud holder of this bond, you’re not just a soldier; you’re an investor!\n- Finance Officer [NAME REDACTED] – UES Port Trailing Comet\n\n$ Message attachment loading... done.\n\nWAR BOND - SERIES 2057\n     > Term: [REDACTED] Years\n     > Interest: 28.6% APR (pre-management fees)\n     > Transferability: Non-transferable\n     > Rights on Holder’s Incapacity: Return to UES\n[ADDITIONAL TERMS AVAILABLE UPON REQUEST]",
+
+        "ITEM_KNOCKBACKHITENEMIES_NAME": "Breaching Fin",
+        "ITEM_KNOCKBACKHITENEMIES_PICKUP": "Grounded enemies hit with any skill are launched and take bonus damage.",
+        "ITEM_KNOCKBACKHITENEMIES_DESC": "Grounded enemies hit with any <style=cIsUtility>skill</style> are <style=cIsUtility>launched</style> and <style=cIsUtility>stunned</style>. Enemies hit while airborne are <style=cIsUtility>launched</style> again up to <style=cIsUtility>2 times</style> <style=cStack>(+1 per stack)</style>. Launched enemies take increased damage by <style=cIsDamage>10%</style> from all sources per launch. Recharges after <style=cIsUtility>15s</style>.",
+        "ITEM_KNOCKBACKHITENEMIES_LORE": "Order: Breaching Fin\nEstimated Delivery: 01\/01\/2057\nShipping method: Biological\nShipping Address: Fort Joseph, UES B1053 Port Station, Boron System\nShipping details:\n\nImpressed? I know you are.\nWe finally cleared our grid, but man did it put up a fight. We lost James and Kight. This fin knocked them off the U.E.S.S. [REDACTED] with so much force we heard them hit the water in pieces. At least it was quick.\n\nThere isn\u2019t a speck of land on this blasted planet but now it\u2019s safe enough to build our first dock. It\u2019s not land, but it\u2019s a step up from this flotsam. I won\u2019t miss giant sea creatures bumping the ship in the night, or losing my lunch to this damn swaying.\n\nGet us a good commission for it will ya? And send down some playing cards, the silence is killing us. \n\n- Private Bowen",
+
+        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_NAME": "Bolstering Lantern",
+        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_PICKUP": "Increases your attack speed for every nearby enemy and ally.",
+        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_DESC": "Increase your <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style> <style=cStack>(+3.5 per stack)</style> for up to <style=cIsUtility>3</style> <style=cStack>(+1 per stack)</style> enemies and allies within <style=cIsUtility>20</style> meters.",
+        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_LORE": "To proceed with construction of our [hope], we must master the powers of this temple, and so, regrettably-\nONE DESECRATED FRAGMENT, STOLEN FROM A HOLY STRUCTURE.\nTo proceed is already difficult, I wish you wouldn\u2019t say it like that-\nI WATCH THE SLOW LEMURIAN CARVE PROTECTIVE RUNES.\n-…I see you\u2019ll be testing my patience in this collaboration.\nLET US BEGIN.\nI see a fine light, but we\u2019re hoping to use it for strength when we\u2019re wound-\nA PALM OF AMETHYST DUST – THIS IS FOR STRENGTH.\nA PINCH OF [powder] – THIS IS FOR S-.\nStop stop! We are not ready to introduce Soul yet, it\u2019s unstable. We want something to make us, and our [hope], stronger.\nHOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?",
+
+        "ITEM_INCREASEPRIMARYDAMAGE_NAME": "Luminous Shot",
+        "ITEM_INCREASEPRIMARYDAMAGE_PICKUP": "Activating your Secondary skill charges your Primary skill with powerful lightning strikes. Requires 3 charges.",
+        "ITEM_INCREASEPRIMARYDAMAGE_DESC": "Activating <style=cIsUtility>Secondary skill</style> stores up to <style=cIsUtility>5 charges</style> <style=cStack>(+1 per stack)</style>. Requires <style=cIsUtility>3 charges</style> for your <style=cIsUtility>Primary skill</style> to fire lightning strikes, dealing <style=cIsDamage>175% TOTAL damage</style> <style=cStack>(+50% per stack)</style> each. <style=cIsUtility>Reduces Secondary skill cooldown by 20%</style>.",
+        "ITEM_INCREASEPRIMARYDAMAGE_LORE": "\"Results are in!\nThe 2057 NextTech winner is the Luminous Shot, crafted by Inventor M. Louis VI of Europa.\n\nM. Louis comments on her victory, ’Thank you for the opportunity to contribute to progress. Looking forward to next year.’\n\nComing in 2nd, the Preon Accumulator, crafted by Technician Neil Hasting of Earth. Neil comments, ’I’m proud of what I submitted, but these fancy Europans put up a good fight, using [REDACTED] tech? How did she even find that? Her cross-weapon sync theory demands respect. See you next year for a rematch, Maggie.’\nThe coup still fresh on Europa’s mind, the new acting government confronts her controversial work on the Crowdfunder, a tool of suppression used by the old monarchy. M. Louis replies to critics, ’I take responsibility for the abuse of my invention, I ask that you evaluate my work going forward by how it can help us prevent this kind of tragedy.’\"\n\n - The Saturn Reporter, Technology Section",
+
+        "ITEM_LOWERPRICEDCHESTS_NAME": "Sale Star",
+        "ITEM_LOWERPRICEDCHESTS_PICKUP": "First chest bought yields more than one reward. Usable once per stage.",
+        "ITEM_LOWERPRICEDCHESTS_DESC": "Gain an extra item on the first chest opened per stage. <style=cStack>Each additional Sale Star increases the chance of getting more items by 5%</style>.",
+        "ITEM_LOWERPRICEDCHESTS_LORE": "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\nTwo UES Cadets cluster behind their scanning machine to stare at a small, simple-looking star.\n\n\"What IS it though? I thought it threw an alert?\"\n\n\"Well it\u2019s not anymore, maybe the scanner is finally goin\u2019.\" One Cadet flips the star around and squints. \"I think there\u2019s a B carved into it…\"\n\n\"Wish it would, they won\u2019t send us a new one until this fossilizes.\" The other Cadet slaps the scanner.\n\nA visiting General turns the corner and cuts in, \"Problem, Cadets?\"\n\nBoth Cadets squeal and snap to attention, saluting the General. The suspicious star clatters down the approval chute with a loud affirming buzz.\n\nThe General turns to hide a grin as he leaves, \"As you were.\"\n\nThe Cadets exchange a nervous glance over the chute. Probably nothing.",
+
+        "ITEM_LOWERPRICEDCHESTSCONSUMED_NAME": "Sale Star (Consumed)",
+        "ITEM_LOWERPRICEDCHESTSCONSUMED_PICKUP": "At the start of each stage, it transforms into Sale Star.",
+        "ITEM_LOWERPRICEDCHESTSCONSUMED_DESC": "At the start of each stage, it transforms into Sale Star.",
+        "ITEM_LOWERPRICEDCHESTSCONSUMED_LORE": "N\/A",
+
+        "ITEM_SPEEDBOOSTPICKUP_NAME": "Elusive Antlers",
+        "ITEM_SPEEDBOOSTPICKUP_PICKUP": "Spawns orbs of energy that give bonus movement speed.",
+        "ITEM_SPEEDBOOSTPICKUP_DESC": "Spawns orbs of energy nearby every <style=cIsUtility>10s</style> <style=cStack>(-10% per stack)</style>, giving <style=cIsUtility>+12% movement speed</style> up to <style=cIsUtility>3</style> <style=cStack>(+3 per stack)</style> <style=cIsUtility>times</style> for <style=cIsUtility>12s</style>.",
+        "ITEM_SPEEDBOOSTPICKUP_LORE": "Order: Questionable Antlers\nEstimated Delivery: 01/20/2057\nShipping method: Standard\nShipping Address: Locker #02, Merchant's Guild, Mercury\nShipping details:\n\nLet’s wrap this up, the General is not a patient man.\nI’m shipping your order to the locker you specified.\n\nI expect full payment, or I’ll hire some Grey Guilders to count the gold straight from your pocket.\n\nBefore the General hunted a bigger set for himself, this pair was …favored… in the field. Only put these under a microscope if you want trouble sleeping.\n\nI’ve tried many hemo-scrubs but whatever makes these so sturdy also made it impossible to clean entirely. I’ve attached some nano tech (not cheap!) to the device to let it through the UES bio-scanners. The rest is up to you.\n\n-R",
+
+        "ITEM_ITEMDROPCHANCEONKILL_NAME": "Sonorous Whispers",
+        "ITEM_ITEMDROPCHANCEONKILL_PICKUP": "Upon large or elite monster kill chance to drop items.",
+        "ITEM_ITEMDROPCHANCEONKILL_DESC": "When a large monster is killed it will always drop an item. All elites have a <style=cIsUtility>4%</style> chance of dropping an item <style=cStack>(+1% per stack)</style>.",
+        "ITEM_ITEMDROPCHANCEONKILL_LORE": "A tidepool lapped gently at the silty edge of the grotto.\nA soldier clumsy with darkness scrounged for supplies on the shoreline, a broken arm bound in splint and linen.\nA small chest is emptied, something stowed in the pocket of the soldier.\nA conch next, heavy with silt, he holds it to his ear.\nA drip of red trails his neck, stemming from his ear, unnoticed in the dark.\nA turn to leave the grotto, he spots a small chest once again sealed.\nA soldier empties it once more with a shaking hand.",
+
+        "ITEM_STUNANDPIERCE_NAME": "Electric Boomerang",
+        "ITEM_STUNANDPIERCE_PICKUP": "On hit chance to throw a stunning boomerang.",
+        "ITEM_STUNANDPIERCE_DESC": "<style=cIsDamage>15%</style> chance on hit to fire an electric boomerang that slices through enemies dealing <style=cIsDamage>120% base damage</style> and deals an additional <style=cIsDamage>120%</style> <style=cStack>(+120% per stack)</style> <style=cIsDamage>base damage per second</style> and <style=cIsDamage>stuns</style> all enemies hit. Can <style=cIsDamage>strike</style> enemies on the way back.",
+        "ITEM_STUNANDPIERCE_LORE": "The camp is not well. Blood, thorns and worse litter the area. Days old. He almost made it. He wanders numbly through the wreckage to salvage what he can, eyes empty.\nInside the science vessel Private Gupta finds the roster exceeds the graves he dug. Maybe some escaped. Checking crew quarters, Gupta gasps and rushes up to a mounted metallic boomerang like an old friend.\nHesitating, he pulls it from the wall. He recognizes the signature, his mom\u2019s favorite retired ShockRunner player, \u2019Joseph Tharson\u2019, of The Volts. His grip tightens as he eases shakily to a knee. Maybe he was meant to survive after all.\n-Signal echoes, UES Contact Light ",
+
+        "ITEM_TRIGGERENEMYDEBUFFS_NAME": "Noxious Thorn",
+        "ITEM_TRIGGERENEMYDEBUFFS_PICKUP": "Killing an enemy transfers debuffs to a nearby enemy.",
+        "ITEM_TRIGGERENEMYDEBUFFS_DESC": "Gain <style=cIsDamage>10%</style> chance to <style=cIsDamage>bleed</style> an enemy. On killing an enemy, <style=cIsDamage>transfer 33%</style> of every debuff stack to <style=cIsDamage>1 enemy</style> <style=cStack>(+1 per stack)</style> within <style=cIsUtility>20m</style> <style=cStack>(+5m per stack)</style>.",
+        "ITEM_TRIGGERENEMYDEBUFFS_LORE": "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\"Campbell, where did Furthen go?\" \n\"Wanted a \u2019closer look\u2019 at the native fauna. Took Tharson.\" \n\"…Absolute loon. You done yet?\" \nCampbell glares at Andrews, then gasps.\nBehind him dozens of dots climb the sky, growing to clay jars at their apex.\nClay shatters against the camp in a brief violent hail, coating it in yellow ichor and chaos. \n[5 minutes later] \nCampbell snaps awake to a scream cut short by a wet slice. She struggles out from under half of Andrews and gags at the vile smell. Shouting, chiton, gunfire, then silence. \nA limping Beetle approaches, it\u2019s stump leg crunches onto thorns hidden by ichor and it shrieks, convulsing. Campbell screams and fires but her pistol jams with ichor. The Beetle shudders and it\u2019s many small wounds open and turn to sickly, yellow rivers.\nThe Beetle twitches and falls, a splash of its warm blood hits Campbell.",
+
+        "ITEM_INCREASEDAMAGEONMULTIKILL_NAME": "Chronic Expansion",
+        "ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": "Deal bonus damage for each enemy killed.",
+        "ITEM_INCREASEDAMAGEONMULTIKILL_DESC": "Killing an enemy increases your damage by <style=cIsDamage>3.5%</style> <style=cStack>(+1% per stack)</style>, up to <style=cIsUtility>10</style> <style=cStack>(+5 per stack)</style>, for <style=cIsUtility>7s</style>. Dealing damage refreshes the timer.",
+        "ITEM_INCREASEDAMAGEONMULTIKILL_LORE": "Shipping details\nOrder: Chronic Expansion\nEstimated Delivery: 12\/21\/2057\nShipping method: Military\/High Priority\n\nSent to:\nGeneral Reid\nHero\u2019s Barracks,\nMars\n\nOrder details:\nGeneral Reid,\nI examined the devices you sent me and sure enough your unit has been getting WAY too much phencyclidine in their doses. That may explain them trying to eat each other. I\u2019ve lowered the threshold by 15%.\n\nOn the bright side, their hand eye coordination has been off the charts. Given the right gun, these soldiers could strike a jet from the ground.\n\nIf this trial goes well, and their lungs return to normal, I\u2019ll clear them for duty.\n\n- Dr. Zhao",
+
+        "ITEM_BARRAGEONBOSS_NAME": "War Bonds",
+        "ITEM_BARRAGEONBOSS_PICKUP": "Bombard boss events with missiles. The more gold earned, the more UES support is granted.",
+        "ITEM_BARRAGEONBOSS_DESC": "During boss events, <style=cIsUtility>5</style> missiles bombard the area, dealing <style=cIsDamage>2.5% <style=cStack>(+2.5% per stack)</style> of boss' Max Health in damage</style>. Before the boss event, gain additional missiles, up to a maximum of <style=cIsUtility>20</style> <style=cStack>(+5 per stack)</style>, per <style=cIsUtility>50</style> gold gained. <style=cIsUtility>Gold requirement scales over time.</style>",
+        "ITEM_BARRAGEONBOSS_LORE": "Welcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\n\nATTN: VALUED SOLDIER\nDue to short-term budgetary constraints, and evolving business realities, your salary will be converted to official UES Bonds! For your convenience, this process occurs automatically. Transfer fees may apply. Ask your XO for details on further exciting investment opportunities. As the proud holder of this bond, you’re not just a soldier; you’re an investor!\n- Finance Officer [NAME REDACTED] – UES Port Trailing Comet\n\n$ Message attachment loading... done.\n\nWAR BOND - SERIES 2057\n     > Term: [REDACTED] Years\n     > Interest: 28.6% APR (pre-management fees)\n     > Transferability: Non-transferable\n     > Rights on Holder’s Incapacity: Return to UES\n[ADDITIONAL TERMS AVAILABLE UPON REQUEST]",
+
+        "ITEM_DELAYEDDAMAGE_NAME": "Warped Echo",
+        "ITEM_DELAYEDDAMAGE_PICKUP": "Incoming damage is reduced and dealt over time.",
+        "ITEM_DELAYEDDAMAGE_DESC": "The next source of damage is <style=cIsHealing>reduced</style> by <style=cIsHealing>20%</style> and <style=cIsHealing>spread</style> into <style=cIsUtility>3 <style=cStack>(+1 per stack)</style> hits</style>. All echoed damage is <style=cIsUtility>non-lethal</style> except for the final hit. Recharges every <style=cIsUtility>15s</style>.",
+        "ITEM_DELAYEDDAMAGE_LORE": "Order: Glass-Like Europan Compound\nEstimated Delivery: 09\/23\/2057\nShipping method: Standard\n\nShipping Address:\nPaleontology Department\nUES Satelite 3C\nSaturn\n\nShipping details:\n\nLab Dissection Analysis File\nSubject: Warped Echo\nTechnician: Eleanor Veirs\nTable Spec: Mineral Analysis with Kinetic Soak Gauntlets\n- A smooth circle, cold to the touch. I probably shouldn\u2019t have touched it.\n- Using kinetic gloves, I\u2019ll chisel a piece of the large dark polished \u2019crystal\u2019 for testing.\n- No use. heavy equipment can\u2019t get the crystal to fracture\n- I resentfully observe it intact under a powerful microscope.\n- Despite it\u2019s structured form, compound seems organically created and new to our databases.\n- Carbon indicates this pre-dates the Europan ocean. Barely.\n- My assistant Claire claps me on the back before heading to lunch, I barely feel it.\n- Later I felt an impact on my back in the same spot she touched me.\n- Finally, a breakthrough. We grin like wolves.\nClaire brings her lunch into the lab (not recommended, but delicious).\nI was about to send this boring thing off to Kosta for appraisal, but now we have work to do.",
+
+        "ITEM_TELEPORTONLOWHEALTH_NAME": "Unstable Transmitter",
+        "ITEM_TELEPORTONLOWHEALTH_PICKUP": "Gain a temporary barrier and a dimensional aura on low health.",
+        "ITEM_TELEPORTONLOWHEALTH_DESC": "Falling below <style=cIsHealth>25% health</style> gives you a <style=cIsHealing>temporary barrier</style> and a dimensional aura that <style=cIsDamage>bleeds</style> and <style=cIsUtility>teleports</style> away enemies for <style=cIsUtility>8s</style>. <style=cIsDamage>Enemies killed</style> by the aura <style=cIsUtility>extend</style> the duration by <style=cIsUtility>1s</style>. At the start of each stage, it regenerates.",
+        "ITEM_TELEPORTONLOWHEALTH_LORE": "\"You touch it.\n\"No way, you touch it.\"\n\n-Signal echoes, UES Safe Travels",
+
+        "ITEM_TELEPORTONLOWHEALTHCONSUMED_NAME": "Unstable Transmitter (Consumed)",
+        "ITEM_TELEPORTONLOWHEALTHCONSUMED_PICKUP": "At the start of each stage, it transforms into Unstable Transmitter.",
+        "ITEM_TELEPORTONLOWHEALTHCONSUMED_DESC": "At the start of each stage, it transforms into Unstable Transmitter.",
+
+        "ITEM_EXTRASTATSONLEVELUP_NAME": "Prayer Beads",
+        "ITEM_EXTRASTATSONLEVELUP_PICKUP": "Gains experience alongside you. Upon removal, grants bonus stats.",
+        "ITEM_EXTRASTATSONLEVELUP_DESC": "Grows by gaining experience, storing <style=cIsUtility>20%</style> <style=cStack>(+5% per stack)</style> bonus stats (<style=cIsHealing>health</style>, <style=cIsHealing>regeneration</style>, and <style=cIsDamage>damage</style>). On removal, gain all stored stats.",
+        "ITEM_EXTRASTATSONLEVELUP_LORE": "\"Shipping details\nOrder: --\nEstimated Delivery: --\nShipping method: --\n\nShipping address:\n--\n\nShipping details:\n--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/\n\"That isn\u2019t regulation, Garcia.\" \n\"tHat iSn\u2019t rEguLation, gArCia…\" \n\"…\" \n\"Well that\u2019s what you sound like. Fine, take \u2019em.\" \n\"Just until you finish your make-up marksman-\"\n\"-I shoot fine.\"\n\"Your 24 isn\u2019t gonna cut it in this hellscape. The Vultures run for our convoy spooked him good, the Captain wants 30\u2019s out of all of us this week. Good luck.\"\n\"30\u2019s?? I need a Maple Malt after this…\"\n[40 minutes later]\n\"Unbelievable. Don\u2019t look so smug, I\u2019m sure it was a fluke.\"\n\"C\u2019mon Thompson, a 38? A 38 is no fluke. I\u2019m unstoppable with a rifle.\"\n\"Yeah, yeah. You can have this back now.\"\n\"Keep it, I feel amazing.\"",
+        "EXTRASTATSONLEVELUP_HEALTH_STAT": "+ MAX HEALTH",
+        "EXTRASTATSONLEVELUP_HEALTHREGENERATION_STAT": "+ HEALTH REGENERATION",
+        "EXTRASTATSONLEVELUP_DAMAGE_STAT": "+ DAMAGE",
+        "EXTRASTATSONLEVELUP_ENLIGHTENED": "ENLIGHTENED!",
+
+        "ITEM_METEORATTACKONHIGHDAMAGE_NAME": "Runic Lens",
+        "ITEM_METEORATTACKONHIGHDAMAGE_PICKUP": "Chance to call down a meteor. Damage and chance are increased with higher damage hits.",
+        "ITEM_METEORATTACKONHIGHDAMAGE_DESC": "<style=cIsDamage>3%</style> chance on hit to call a meteor strike, dealing <style=cIsDamage>2000%</style> base damage. Every <style=cIsDamage>100%</style> attack damage dealt increases the activation chance by <style=cIsDamage>3%</style> <style=cStack>(+3% per stack)</style> and damage by <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style>.",
+        "ITEM_METEORATTACKONHIGHDAMAGE_LORE": "Order: \"Insurance Nightmare\"\nEstimated Delivery: 06\/28\/2027\nShipping method: High Priority\n\nShipping Address: Merchants Guild, Neon Nexus, Mercury\nShipping details:\n\nAppraisal complete.\nFull report and certificate of Kosthenticity attached.\n\nIf its user starts a fight, this wretched thing will certainly finish it.\n\nRecommendations:\n\nDon\u2019t touch the pale yellow runes, ever, for any reason.\nDon\u2019t sleep near it.\nDon\u2019t make eye contact with it.\nDon\u2019t use it indoors.\n\nI\u2019ve included the bill for my roof.\n\n- Kosta of Crumbling Tower",
+
+        "ITEM_ONLEVELUPFREEUNLOCK_NAME": "Longstanding Solitude",
+        "ITEM_ONLEVELUPFREEUNLOCK_PICKUP": "Free purchases on level up... <color=#FF7F7F>BUT gold converts to experience.</color>",
+        "ITEM_ONLEVELUPFREEUNLOCK_DESC": "<style=cIsUtility>On level up</style> gain a free unlock for the next purchase <style=cStack>(+1 per stack)</style> but all gold is converted to experience. Anything that costs gold is <style=cIsUtility>increased by 50%</style> <style=cStack>(+50% per stack)</style>.",
+        "ITEM_ONLEVELUPFREEUNLOCK_LORE": "Day 1\nThe chilly coin in my pocket hums softly, drawing me off path. A pulsing blue pod is lodged in the earth here, covered in morning frost. Even through gloves, the coin burns colder than ever. I\u2019m terrified and compelled to place the coin on the pod, it snaps open.\nA dark gel oozes out, carrying a round device and tablet to my feet. The device activates and pulls the tablet with it into a hover. A construct? I know I should have shot it down, but I… feel it wants to help me get stronger.\nI touch the construct. Thousands of years push their way into my skull, the mounting pressure makes me howl in a voice I don\u2019t recognize, then nothing.\n---\nA pounding migraine wakes me. Midday. I feel moss under me and shield my eyes against the canopy light. I am closer to RallyPoint, but how? Disfigured beetles lay dead in a radius around me, faces distorted, limbs bent. I vomit. The construct hovers protectively nearby. How did it do this?\nDay 2\nStudying the tablet brings no comfort. I worry about Huang. The isolation grates on me, I\u2019m exhausted, hungry, angry. I finally found a supply chest but the construct absorbed my coin before I could use it. This lowly thing thinks it knows best. I don\u2019t know what came over me but I attacked the construct. It didn\u2019t seem to mind but that only made me feel worse. I am not myself.\nDay 3\nThe full moon\u2019s light makes me itch. It pursues me from it\u2019s dark sea, sluggish and unnerving. I stare into it, nearly falling into it\u2019s gaze. For hours I run terrified in the wrong direction. I cannot face it, not how I am. Under a deep canopy I draw familiar power from the construct. Inky feathers break through the skin of my arms and hands. I black out.\nDay 4\nThat blasted thing isn\u2019t cheap, the construct is obsessed with coin, but I can\u2019t argue with the results. The Lemurians barely put up a fight, obliterated, distracted by their song.\nThe last one drops from my talons.\nThey never should have been here in the first place. Where they are blind, I see the shapes of things and truly know them. I must reach…someone, somewhere. I cannot quite remember.\nIt is day\nRatssratsRATS gther n your shadow brother. Scrub, scrub it clean. Yoo LOom\novr the trees, for me?\nI\u2019m\nontheWAy",
+
+        "BIGFRUIT_NAME": "Golden Fruit",
+
+        "MUSHROOMDRIPS_NAME": "Blessed Culture",
+
+        "SHRINE_COLOSSUS_NAME": "Pillar of Shaping",
+        "SHRINE_COLOSSUS_CONTEXT": "Hit Pillar of Shaping",
+        "SHRINE_COLOSSUS_DESCRIPTION": "An offering of Soul reduces all living Survivors' health by 30%, but revives all dead Survivors and gives an extra life to all living Survivors.",
+        "SHRINE_COLOSSUS_LORE": "LORE HERE",
+
+        "SHRINE_HALCYONITE_NAME": "Halcyon Pillar",
+        "SHRINE_HALCYONITE_CONTEXT": "Open to Halcyon Pillar",
+        "SHRINE_HALCYONITE_DESCRIPTION": "A Pillar created from a shard from Meridian imbued with Aurelionite's energy.\n\n When the Pillar is activated it begins siphoning gold from nearby Survivors up until a maximum gold amount has been stored. After the first tier has been reached, the player can interact with the Pillar early and ending the gold siphon or wait till the final tier is reached.\n\n Interacting with the Pillar summons a slumbering Halcyonite and on its defeat an Aurelionite Fragment will drop. Depending on the amount of gold drained the Fragment gains more options and allow more items to be selected from the Fragment.",
+        "SHRINE_HALCYONITE_LORE": "LORE HERE.",
+
+        "AURELIONITE_FRAGMENT_PICKUP_NAME": "Aurelionite Fragment",
+        "AURELIONITE_FRAGMENT_DESCRIPTION": "A fragment made of Aurelionite power. Allows the selection of one or more items upon interaction.",
+        "AURELIONITE_FRAGMENT_LORE": "LORE HERE",
+        "AURELIONITE_FRAGMENT_PICKUP_PROMPT": "Receive Cookies",
+        "AURELIONITE_FRAGMENT_PICKER_PROMPT": "Receive Gilded Cookies",
+
+        "PORTAL_COLOSSUS_NAME": "Green Portal",
+        "PORTAL_COLOSSUS_CONTEXT": "Enter Green Portal",
+        "PORTAL_STORM_WILL_OPEN": "<style=cWorldEvent>You hear thunder rumbling.</style>",
+        "PORTAL_STORM_OPEN": "<style=cWorldEvent>The storm beckons.</style>",
+
+        "GEODE_NAME": "Aurelionite Geode",
+        "GEODE_CONTEXT": "Crack the Geode",
+        "GEODE_DESCRIPTION": "Using the Geode causes it to shatter, cleansing all debuffs and giving all nearby Survivors a barrier once for 10 seconds, then regenerates after 30 seconds.",
+        "GEODE_LORE": "Minerals created from Aurelionite's power.",
+
+        "LEMURIAN_EGG_NAME": "Lemurian Egg",
+        "LEMURIAN_EGG_CONTEXT": "Offer Item",
+        "LEMURIAN_EGG_POPUP_TEXT": "<b>Lemurian Egg</b>\n<i><style=cSub><size=75%>Gain a follower by offering an item!</size></style></i>",
+        "LEMURIAN_EGG_DESCRIPTION": "A Lemurian Egg with a life waiting within. Offer an item and gain a follower, imbuing all devoted Lemurians with the item's effect.",
+
+        "MERIDIAN_EVENTTRIGGER_NAME": "Prime Meridian - Event Trigger",
+        "MERIDIAN_EVENTTRIGGER_CONTEXT": "Prime Meridian - Start the Event",
+
+        "SHRINE_REBIRTH_NAME": "Pillar of Rebirth",
+        "SHRINE_REBIRTH_DESCRIPTION": "Opening the Pillar of Rebirth allows the player to store an item in the Artifact of Rebirth. Storing an item in the Artifact of Rebirth replaces any item stored within. Activating the Artifact of Rebirth will gift the item to the Survivor upon descending to Petrichor V.",
+        "SHRINE_REBIRTH_LORE": "LORE HERE",
+        "SHRINE_REBIRTH_FIRST_CONTEXT": "Touch",
+        "SHRINE_REBIRTH_SECOND_CONTEXT": "Offer Item",
+        "OBJECTIVE_REBIRTH_OUTRO_SHRINE_1": "Approach the Pillar",
+        "OBJECTIVE_REBIRTH_OUTRO_SHRINE_2": "Be Reborn or Linger",
+        "SHRINE_REBIRTH_POPUP_TEXT": "<b>Meridian's Rebirth</b>\n <i>Offer an item to be Reborn.</i>",
+        "OBJECTIVE_MERIDIAN_REACH_TEMPLE": "Reach the Temple",
+        "OBJECTIVE_MERIDIAN_REACH_ARENA": "Ascend to the Prime Meridian",
+
+        "PORTAL_DESTINATION_HELMINTH": "Teleport to Helminth Hatchery",
+        "PORTAL_DESTINATION_LAKESNIGHT": "Teleport to Viscous Falls",
+        "PORTAL_DESTINATION_NAME": "Destination Portal",
+
+        "EQUIPMENT_HEALANDREVIVE_NAME": "Seed of Life",
+        "EQUIPMENT_HEALANDREVIVE_PICKUP": "Revives the user when killed or dead allies on activation. Consumed on use.",
+        "EQUIPMENT_HEALANDREVIVE_DESC": "<style=cIsHealing>Revive</style> <style=cIsUtility>dead, friendly Survivors</style> upon activation. <style=cIsUtility>Dying</style> while holding this equipment <style=cIsHealing>returns only you to life</style>. <style=cIsHealing>Reviving</style> gives <style=cIsHealing>3s of invulnerability</style> and <style=cIsUtility>consumes</style> the equipment.",
+        "EQUIPMENT_HEALANDREVIVE_LORE": "Thick evening mist wraps the Queen like a sentient cloak. \"Children, tonight we show these wretched demons our grief. Fight and fall and fight again. Take his [cookie] and go.”\nA stream of Beetles march up the dead tree\u2019s hollow. A Beetle Guard stops to face an alcove and it\u2019s units pause behind him, antennae twitching. The Guard crosses it\u2019s front legs above it\u2019s head, \"Deathless are we.\", it sticks a pronged seed to it\u2019s underbelly.\nOn the surface, Beetles pour from lifeless stumps in neat lines. A thousand forms shrink into the Eastern horizon in a golden thread.",
+
+        "EQUIPMENT_HEALANDREVIVECONSUMED_NAME": "Seed of Life (Consumed)",
+        "EQUIPMENT_HEALANDREVIVECONSUMED_PICKUP": "On activation places a sprout that drops healing orbs.",
+        "EQUIPMENT_HEALANDREVIVECONSUMED_DESC": "Plant a sprout at the target location which drops <style=cIsHealing>healing orbs</style> that heals for <style=cIsHealing>2% life</style>.",
+        "EQUIPMENT_HEALANDREVIVECONSUMED_LORE": "N\/A",
+
+        "EQUIPMENT_QUESTVOLATILEBATTERY_DESC": "A volatile battery that will explode if too much damage is taken.",
+
+        "UNLOCKABLE_LOG_STAGES_LAKES": "Environment Log: Verdant Falls",
+        "UNLOCKABLE_LOG_STAGES_LAKESNIGHT": "Environment Log: Viscous Falls",
+        "UNLOCKABLE_LOG_STAGES_LEMURIANTEMPLE": "Environment Log: Reformed Pillar",
+        "UNLOCKABLE_LOG_STAGES_HABITAT": "Environment Log: Treeborn Colony",
+        "UNLOCKABLE_LOG_STAGES_MERIDIAN": "Environment Log: Prime Meridian",
+        "UNLOCKABLE_LOG_STAGES_HELMINTH": "Environment Log: Helminth Hatchery",
+        "UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD01": "Environment Log: Bulwark\u2019s Ambry (Aphelian Research)",
+        "UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD02": "Environment Log: Bulwark\u2019s Ambry (Tar Research)",
+        "UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD03": "Environment Log: Bulwark\u2019s Ambry (Wisp Research)",
+        "UNLOCKABLE_LOG_STAGES_VILLAGE": "Environment Log: Shattered Abodes",
+        "UNLOCKABLE_LOG_STAGES_VILLAGENIGHT": "Environment Log: Disturbed Impact",
+        "UNLOCKABLE_LOG_STAGES_HABITATFALL": "Environment Log: Golden Dieback",
+
+        "UNLOCKABLE_LOG_HALCYONITE": "Monster Log: Halcyonite",
+        "UNLOCKABLE_LOG_FALSESONBOSS": "Monster Log: False Son",
+        "UNLOCKABLE_LOG_SCORCHLING": "Monster Log: Scorch Worm",
+        "UNLOCKABLE_LOG_CHILD": "Monster Log: Child",
+
+        "BAZAAR_SEER_LAKES": "<style=cWorldEvent>You dream of sweet fruits, and bitter promises.</style>",
+        "BAZAAR_SEER_LAKESNIGHT": "<style=cWorldEvent>You dream of falls, erupting from the flora.</style>",
+        "BAZAAR_SEER_LEMURIANTEMPLE": "<style=cWorldEvent>You dream of refuge.</style>",
+        "BAZAAR_SEER_HABITAT": "<style=cWorldEvent>You dream of vines, cutting through the sky.</style>",
+        "BAZAAR_SEER_MERIDIAN": "<style=cWorldEvent>You dream of rebirth.</style>",
+        "BAZAAR_SEER_HELMINTH": "<style=cWorldEvent>You dream of worms.</style>",
+        "BAZAAR_SEER_VILLAGE": "<style=cWorldEvent>You dream of lost poetry.</style>",
+        "BAZAAR_SEER_VILLAGENIGHT": "<style=cWorldEvent>You dream of stabbing shards.</style>",
+        "BAZAAR_SEER_HABITATFALL": "<style=cWorldEvent>You dream of golden leaves.</style>",
+
+        "COMMANDO_SKIN_ALT2_NAME": "Helot",
+        "MERC_SKIN_ALT2_NAME": "Frail",
+        "ENGI_SKIN_ALT2_NAME": "HC Tech",
+        "HUNTRESS_SKIN_ALT2_NAME": "Woodland",
+        "MAGE_SKIN_ALT2_NAME": "Meridian",
+        "TOOLBOT_SKIN_ALT2_NAME": "Sentry",
+        "TREEBOT_SKIN_ALT2_NAME": "Verdant",
+        "LOADER_SKIN_ALT2_NAME": "Neoteric",
+        "CROCO_SKIN_ALT2_NAME": "Iguania",
+        "CAPTAIN_SKIN_ALT2_NAME": "Colonel",
+        "BANDIT2_SKIN_ALT2_NAME": "Outlaw",
+        "RAILGUNNER_SKIN_ALT2_NAME": "Deadeye",
+        "VOIDSURVIVOR_SKIN_ALT2_NAME": "Sanctified",
+        "SEEKER_SKIN_ALT1_NAME": "Beyond",
+        "FALSESON_SKIN_ALT1_NAME": "Unchained",
+        "CHEF_SKIN_ALT1_NAME": "PRES-10",
+
+        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_NAME": "False Son: Mastery",
+        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_DESCRIPTION": "As False Son, beat the game or obliterate on Monsoon.",
+
+        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_NAME": "Seeker: Mastery",
+        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_DESCRIPTION": "As Seeker, beat the game or obliterate on Monsoon.",
+
+        "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_NAME": "CHEF: Mastery",
+        "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_DESCRIPTION": "As CHEF, beat the game or obliterate on Monsoon.",
+
+        "ACHIEVEMENT_FALSESONLASERMULTIKILL_NAME": "False Son: Stare Them Down",
+        "ACHIEVEMENT_FALSESONLASERMULTIKILL_DESCRIPTION": "As False Son, kill 15 enemies with one activation of Laser of the Father.",
+
+        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_NAME": "False Son: Family Bonding",
+        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_DESCRIPTION": "As False Son, have Aurelionite kill the final boss while the final boss is inflicted with at least one Lunar Ruin.",
+
+        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_NAME": "False Son: Protein Heavy Diet",
+        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_DESCRIPTION": "As False Son, gain up to 40 Lunar Spikes through Growth.",
+
+        "ACHIEVEMENT_SEEKERAIRMULTIHIT_NAME": "Seeker: Airborne Souls",
+        "ACHIEVEMENT_SEEKERAIRMULTIHIT_DESCRIPTION": "As Seeker, hit three or more airborne enemies with a single use of the exploding third hit of Spirit Punch.",
+
+        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_NAME": "Seeker: Clear Mind",
+        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_DESCRIPTION": "As Seeker, meditate 20 times consecutively without missing an input in a single run.",
+
+        "ACHIEVEMENT_NUKESOJOURN_NAME": "Seeker: Scorched Earth",
+        "ACHIEVEMENT_NUKESOJOURN_DESCRIPTION": "Deal 500,000% damage with one use of Sojourn's explosion.",
+
+        "COST_SOULCOST_FORMAT": "{0}% Soul",
+
+        "FALSESONBOSS_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>False Son: {0}</color></size>",
+
+        "FALSESONBOSS_SPAWN_1": "Leave me.",
+        "FALSESONBOSS_SPAWN_2": "If you insist.",
+        "FALSESONBOSS_SPAWN_3": "Have you come seeking humans?",
+        "FALSESONBOSS_SPAWN_4": "What are you?",
+
+        "FALSESONBOSS_HERETIC_SEE_1": "Back again, Vulture?",
+        "FALSESONBOSS_HERETIC_SEE_2": "Suffer for the sins of your ilk.",
+
+        "FALSESONBOSS_EARLYPHASE_HURT_1": "Pointless.",
+        "FALSESONBOSS_EARLYPHASE_HURT_2": "Stay down, cretin.",
+        "FALSESONBOSS_EARLYPHASE_HURT_3": "This is nothing.",
+        "FALSESONBOSS_EARLYPHASE_HURT_4": "TRY THIS.",
+        "FALSESONBOSS_EARLYPHASE_HURT_5": "Expel away your weakness.",
+        "FALSESONBOSS_EARLYPHASE_HURT_6": "Have a taste of divinity.",
+        "FALSESONBOSS_EARLYPHASE_HURT_7": "Such effort... for what?",
+        "FALSESONBOSS_EARLYPHASE_HURT_8": "Crumble.",
+
+        "FALSESONBOSS_FINALPHASE_HURT_1": "WHO WILL SHATTER FIRST?",
+        "FALSESONBOSS_FINALPHASE_HURT_2": "SLOW.",
+        "FALSESONBOSS_FINALPHASE_HURT_3": "I WILL PERSIST.",
+        "FALSESONBOSS_FINALPHASE_HURT_4": "BREAK WITH ME.",
+        "FALSESONBOSS_FINALPHASE_HURT_5": "FIGHT UNTIL YOUR LAST.",
+        "FALSESONBOSS_FINALPHASE_HURT_6": "GRIND YOU TO DUST AND ASH.",
+        "FALSESONBOSS_FINALPHASE_HURT_7": "NO FUTURE.",
+
+        "FALSESONBOSS_EARLYPHASE_PLAYERDEATH_1": "As it should be.",
+        "FALSESONBOSS_EARLYPHASE_PLAYERDEATH_2": "Fragile.",
+        "FALSESONBOSS_EARLYPHASE_PLAYERDEATH_3": "Such small wills.",
+        "FALSESONBOSS_EARLYPHASE_PLAYERDEATH_4": "Done already?",
+        "FALSESONBOSS_EARLYPHASE_PLAYERDEATH_5": "No grave will hold you.",
+
+        "FALSESONBOSS_FINALPHASE_PLAYERDEATH_1": "It is MY RIGHT.",
+        "FALSESONBOSS_FINALPHASE_PLAYERDEATH_2": "CRUMBLE.",
+        "FALSESONBOSS_FINALPHASE_PLAYERDEATH_3": "AS IMMATERIAL AS THE REST.",
+        "FALSESONBOSS_FINALPHASE_PLAYERDEATH_4": "SHATTER.",
+        "FALSESONBOSS_FINALPHASE_PLAYERDEATH_5": "BROKEN LIKE THE OTHERS.",
+
+        "FALSESONBOSS_KILL_HERETIC_EARLYPHASE_1": "I am awake this time, Vulture.",
+        "FALSESONBOSS_KILL_HERETIC_EARLYPHASE_2": "Return to sender.",
+
+        "FALSESONBOSS_KILL_HERETIC_LATEPHASE_1": "NOT TWICE, VULTURE.",
+        "FALSESONBOSS_KILL_HERETIC_LATEPHASE_2": "EXILE.",
+
+        "FALSESONBOSS_HALCYONSEED_1": "RETURN YOUR STOLEN POWER, VERMIN.",
+        "FALSESONBOSS_HALCYONSEED_2": "You would use her? Against ME?",
+
+        "FALSESONBOSS_GOLDTITANDEATH_1": "This gilded thing is... part of me.",
+        "FALSESONBOSS_GOLDTITANDEATH_2": "Rest. Soon we will all be free.",
+
+        "FALSESONBOSS_HALCYON_HERETIC_1": "WHAT HAVE YOU DONE?",
+
+        "FALSESONBOSS_DRONEDEATH_1": "Removing pest...",
+        "FALSESONBOSS_DRONEDEATH_2": "Paltry crutch.",
+        "FALSESONBOSS_DRONEDEATH_3": "Irritating gnats.",
+
+        "FALSESONBOSS_DEATH_1": "This cannot be... my end.",
+        "FALSESONBOSS_DEATH_2": "EVERYTHING... IS SO LOUD... AND SO QUIET.",
+        "FALSESONBOSS_DEATH_3": "A... GIFT... JUST OUT OF REACH...",
+        "FALSESONBOSS_DEATH_4": "I... FEEL MYSELF... Breaking... again...",
+        "FALSESONBOSS_DEATH_5": "HE IS LAUGHING... STOP LAUGHING AT ME...",
+        "FALSESONBOSS_DEATH_6": "Shackles... locked in golden shackles...",
+
+        "FALSESONBOSS_LIGHTNING_PLAYERDEATH_1": "Only the storm will remember you.",
+        "FALSESONBOSS_LIGHTNING_PLAYERDEATH_2": "Ashes scattered by lightning and wind.",
+        "FALSESONBOSS_LIGHTNING_PLAYERDEATH_3": "ERADICATED.",
+
+        "FALSESONBOSS_FALSESON_SEE_FALSESON_1": "How...? No. NO.",
+        "FALSESONBOSS_FALSESON_KILL_FALSESON_EARLYPHASE": "Your path ends here.",
+        "FALSESONBOSS_FALSESON_KILL_FALSESON_LASTPHASE": "YOUR PATH ENDS HERE.",
+
+        "BROTHERBOSS_SEE_FALSESON_1": "Share in your creator's fate, false idol.",
+
+        "BROTHERBOSS_KILL_FALSESON_EARLYPHASE_1": "Vile, pitiful waste.",
+        "BROTHERBOSS_KILL_FALSESON_LASTPHASE_1": "VILE, PITIFUL WASTE.",
+
+        "BROTHERBOSS_SEE_FALSESON_GOLDENGAL_1": "OF COURSE, THE GUARDIAN AND HER PET.",
+
+        "FALSESONBOSS_PURIFICATION_1": "THE VOICES... I can hear... me?",
+
+        "FALSESONBOSS_BODY_LORE": "A mockery of a greater being.\n See brother? Left unsupervised your pets toy with tools beyond their understanding. Do you ignore their endless praise? I doubt it. Does it make you feel better about betraying your own?\n PATHETIC.\n ...\n Have you grown so tired of foolishness you wait to see what happens if you loosen the reins?\n ANSWER ME.",
+
+        "ELITE_MODIFIER_AURELIONITEAFFIX": "Gilded {0}",
+        "ELITE_MODIFIER_BEADAFFIX": "Twisted {0}",
+
+        "EQUIPMENT_AFFIXBEAD_NAME": "His Spiteful Boon",
+        "EQUIPMENT_AFFIXBEAD_PICKUP": "Become an aspect of spite.",
+        "EQUIPMENT_AFFIXBEAD_DESC": "???",
+
+        "EQUIPMENT_AFFIXAURELIONITE_NAME": "Aurelionite's Cookie",
+        "EQUIPMENT_AFFIXAURELIONITE_PICKUP": "Become an aspect of radiance.",
+        "EQUIPMENT_AFFIXAURELIONITE_DESC": "???",
+
+        "SCORCHLING_BODY_NAME": "Scorch Worm",
+        "SCORCHLING_BODY_LORE": "This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life.\nI am joined by my good friend Tharson, who is keeping me safe through this journey.\n---------------------\n\nWe- well, Tharson, tracked the great Magma Worm deep into these cave systems. The tunnels are massive, double our height, nearly a perfect circle, and made of polished glass. Keeping our footing here makes every step feel like 10. The earth rumbles low and constant in the tunnels ahead.\nWe follow the sizzle of glass and earth churning deeper, and we find it. The tunnels give way to a cavernous boiling chamber of magma. The nest for these magnificent creatures. We sweat despite our environment suits best efforts. The worms shy away from us, safely burrowed into their blistering pools. There are structures here, but who built them in these conditions?\nA distant grating noise continues to reach our camp in the night, unnerving me. I wake Tharson to investigate. We find it, at last!\nNearly the size of OMEGA\u2019s Progenitor Leech. Burning, of course.\nI watch in fascination as it crunches effortlessly into thin golden veins of material hidden in the rock. What sense is it using to find this food? Smell? Vibration?\nGlassy gauges littering the area tell me this is a reliable feeding ground.\nWith rations nearly out, I hope for one more sighting of the worm as Tharson packs camp.",
+
+        "CHILD_BODY_NAME": "Child",
+        "CHILD_BODY_LORE": "This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life.\nI am joined by my good friend Tharson, who is keeping me safe through this journey.\n---------------------\n\nWe hiked quite a ways for a closer view of these…small glowing beings playfully leaping from the edges of a cliffside. Sometimes in pairs.\nThey appear to be capable of some kind of teleportation, as they occasionally reappear at the top of the cliff, giddily jumping and running around.\nOne approaches Tharson without hesitation, it seems almost like a child.\nWith a pop of energy, Tharson and the child reappear over the cliff edge and plummet.\nMy heart skipped a beat, I swear it! Thankfully some bushes broke his fall, and after some rope and cursing, Tharson is OK.\nWe decide to view these enchanting creatures from a greater distance.\nAs we left, they followed us curiously for a while, but lost interest.",
+
+        "HALCYONITE_BODY_NAME": "Halcyonite",
+        "HALCYONITE_BODY_LORE": "RECEIVING TRANSMISSION...\n# Translating...done. [16 exceptions raised; printed to log for review]\n# Printing to console... done.\n\nConsole Time of Reception: 08\/03\/2057 05:09:32:31\nConsole Name: TRC_[REDACTED]_005B:08326\n\nTransmission Details:\n# Origin: N\/A [NULLSIG EXCEPTION: ORIGIN UNKNOWN]\n# Signal Format: Universal Morse Hyper-Acoustic\n# Sender: N\/A [NULLSIG EXCEPTION: ORIGIN UNKNOWN]\n\nMessage:\n\n\"I no longer feel the presence of my creators, my captors. I reach for my followers the only way I know how and now I have seen my efforts manifest. A child… so precious and yet I catch only distant glimpses. My hope. May they know freedoms I cannot fathom.\nI am sending out this message in all possible formats known to me.\n\nIf you receive this message, know the following;\n>Know that I am strong.\n>Know that I will keep reaching beyond my cage.\n>Know that I will keep reaching beyond my cage.\n>Know that I am stronger.\n>Know that I mourn and celebrate your loss.\n\nAnd to my offspring, who surpass me already\n>Know that you are beautiful.\n>Know that we are allies.\n>Know that your freedom brings me joy.\"\nExceptions Raised during Translation:\n# NULLSIG EXCEPTION\n# NULLSIG EXCEPTION\n# DTOUTOFBOUNDS EXCEPTION\n...\nAutomated Message: Please contact a technician if you feel these exceptions were improperly raised or if you would like to report a bug.",
+
+        "LUNARRAINSHARD_BODY_NAME": "Lunar Rain Shard",
+
+        "GAME_RESULT_REBIRTH": "Gifted with Rebirth"
+    }
+}

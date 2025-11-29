@@ -1,0 +1,368 @@
+﻿{
+	"strings": {
+		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} achieved <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>You achieved <color=#BDE151>{1}</color></color>",
+
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Bookworm",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Collect 10 Monster or Environment Logs.",
+
+		"ACHIEVEMENT_ATTACKSPEED_NAME": "Rapidfire",
+		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Reach +200% attack speed.",
+
+		"ACHIEVEMENT_STAYALIVE1_NAME": "The Lone Survivor",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Stay alive for 30 consecutive minutes.",
+
+		"ACHIEVEMENT_HARDHITTER_NAME": "Macho",
+		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Deal 5000 damage in one shot.",
+
+		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Moon Worshipper",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Carry 5 Lunar items in a single run.",
+
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Glorious Battle",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleporter with less than 10% health.",
+
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Ascendant",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleporter bosses after activating 2 Pillars of the Mountain.",
+
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Advancement",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleporter event.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Warrior",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "Reach and complete the 3rd Teleporter event without dying.",
+
+		"ACHIEVEMENT_DIE5TIMES_NAME": "Learning Process",
+		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Die 5 times.",
+
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Experimenting",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Pick up 5 different types of Equipment.",
+
+		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "The Long Road",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Complete 20 stages in a single run.",
+
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Deicide",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Monsoon difficulty.",
+
+		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Slaughter",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Defeat 3000 enemies.",
+
+		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Elite Slayer",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Defeat an Elite-type monster.",
+
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Verified",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleporter event 5 times.",
+
+		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "One with the Woods",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Fully upgrade a Shrine of the Woods.",
+
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Mechanic",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Repair 30 drones or turrets.",
+
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Funded!",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Collect $30,480 total gold.",
+
+		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[REDACTED]",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Chest on Rallypoint Delta.",
+
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "The Demons And The Crabs",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Kill 20 Hermit Crabs by chasing them off the edge of the map.",
+
+		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Multikill!",
+		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Kill 15 enemies simultaneously.",
+
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Prismatically Aligned",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Complete a Prismatic Trial.",
+
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Death Do Us Part",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Discover the hidden chamber in the Abandoned Aqueduct.",
+
+		"ACHIEVEMENT_FREEMAGE_NAME": "Pause.",
+		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Free the survivor suspended in time.",
+
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME": "Newtist",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION": "Discover and activate 8 unique Newt Altars.",
+
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME": "True Respite",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION": "Obliterate yourself at the Pillar..",
+
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME": "Flawless",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION": "Fully charge a Teleporter without getting hit.",
+
+		"ACHIEVEMENT_MOVESPEED_NAME": "Going Fast Recommended",
+		"ACHIEVEMENT_MOVESPEED_DESCRIPTION": "Reach +300% movespeed (includes sprinting).",
+
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME": "The Basics",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION": "Discover 10 unique white items.",
+
+		"ACHIEVEMENT_FAILSHRINECHANCE_NAME": "\"Is This Bugged?\"",
+		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION": "Fail the Shrine of Chance 3 times in a row.",
+
+		"ACHIEVEMENT_LOOPONCE_NAME": "Deja Vu?",
+		"ACHIEVEMENT_LOOPONCE_DESCRIPTION": "Loop back to the first stage.",
+
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME": "...Maybe One More.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION": "Duplicate the same item 7 times in a row with a 3D Printer.",
+
+		"ACHIEVEMENT_KILLBOSSQUICK_NAME": "Keyed Up",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION": "Defeat the Teleporter boss under 15 seconds.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME": "Naturopath",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Without healing, reach and complete the 3rd Teleporter event.",
+
+		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Her Concepts",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Pillar to N'kuhana.",
+
+		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunar Omens",
+		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Find 10 Clay Dolls. <sprite name=\"WIP\"> This achievement is currently unimplemented. <sprite name=\"WIP\">",
+
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Engineering Perfection",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
+
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Blackout",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the unique guardian of Gilded Coast without any beacons deactivating.",
+
+		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Cut Down",
+		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Defeat 500 elite monsters.",
+
+		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Warmonger",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Complete 3 Combat Pillars in a single stage.",
+
+		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Cosmic Explorer",
+		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Discover and enter three unique portals.",
+
+		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Power Plant",
+		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Repair the broken robot with an Escape Pod's Fuel Array.",
+
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Commando: Rolling Thunder",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "As Commando, land the killing blow on an Overloading Worm.",
+
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Pest Control",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "As MUL-T, defeat two Beetle Queens without leaving the teleporter zone.",
+
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Gotcha!",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "As MUL-T, land the killing blow on an Imp Overlord with the Preon Accumulator.",
+
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Seventh Day",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "As MUL-T, clear the Void Fields on Stage 7 or later.",
+
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Mercenary: Demon of the Skies",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "As Mercenary, don't touch the ground for 30 seconds.",
+
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Mercenary: Ethereal",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
+
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Mercenary: Flash of Blades",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "As Mercenary, use 20 abilities in 10 seconds.",
+
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Piercing Wind",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish either Rallypoint Delta or Scorched Acres without falling below 100% health.",
+
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Huntress: One Shot, One Kill",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "As Huntress, collect and carry 12 Crowbars at once.",
+
+		"ACHIEVEMENT_ENGIARMY_NAME": "Engineer: Better With Friends",
+		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "As Engineer, recruit 12 minions at one time.",
+
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Bushwhacked",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "As REX, complete an entire teleporter event while under 50% health.",
+
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Artificer: Chunked!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "As Artificer, fully defeat the teleporter boss in a one-second burst of damage.",
+
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Artificer: Orbital Bombardment",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "As Artificer, kill 15 enemies before touching the ground.",
+
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Artificer: Massacre",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As Artificer, perform a multikill of 20 enemies.",
+
+		"ACHIEVEMENT_BURNTODEATH_NAME": "Warm For Life",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three times while burning.",
+
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Engineer: 100% Calculated",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",
+
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
+
+		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Full of Life",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "As REX, heal for 1000 health at once.",
+
+		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Swing By",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
+
+		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Loader: The Thunderdome",
+		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "As Loader, kill three other Loaders in the Bulwark's Ambry.",
+
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Incorruptible",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
+
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Mastery",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mastery",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Mastery",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Mastery",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Mastery",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mastery",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Mastery",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Mastery",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As Acrid, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Engineer: Mastery",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Captain: Mastery",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "As Captain, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Mastery",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Railgunner: Mastery",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "As Railgunner, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Mastery",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "As 「V??oid Fiend』, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
+
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Guidance Offline",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Siren's Call.",
+
+		"ACHIEVEMENT_BEATARENA_NAME": "...To Be Left Alone",
+		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Stabilize the Cell in the Void Fields.",
+
+		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Loader: Earthshatter",
+		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "As Loader, land a Charged Gauntlet hit at 300mph or higher.",
+
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Pandemic",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "As Acrid, inflict Poison 1000 total times.",
+
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Automation Activation",
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Activate 6 turrets in a single run.",
+
+		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Cleanup Duty",
+		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Destroy 20 flying rocks in Sky Meadow.",
+
+		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Never Back Down",
+		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "In 4 consecutive stages don\u2019t leave the teleporter radius until it is fully charged.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_NAME": "Trial of Spite",
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_DESCRIPTION": "Complete the Trial of Spite.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_NAME": "Trial of Command",
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_DESCRIPTION": "Complete the Trial of Command.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_NAME": "Trial of Honor",
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_DESCRIPTION": "Complete the Trial of Honor.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_NAME": "Trial of Enigma",
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_DESCRIPTION": "Complete the Trial of Enigma.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_NAME": "Trial of Chaos",
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_DESCRIPTION": "Complete the Trial of Chaos.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_NAME": "Trial of Glass",
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_DESCRIPTION": "Complete the Trial of Glass.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_NAME": "Trial of Dissonance",
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_DESCRIPTION": "Complete the Trial of Dissonance.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_NAME": "Trial of Evolution",
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_DESCRIPTION": "Complete the Trial of Evolution.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_NAME": "Trial of Metamorphosis",
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_DESCRIPTION": "Complete the Trial of Metamorphosis.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_NAME": "Trial of Sacrifice",
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_DESCRIPTION": "Complete the Trial of Sacrifice.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_NAME": "Trial of Vengeance",
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_DESCRIPTION": "Complete the Trial of Vengeance.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_NAME": "Trial of Kin",
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_DESCRIPTION": "Complete the Trial of Kin.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_NAME": "Trial of Swarms",
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_DESCRIPTION": "Complete the Trial of Swarms.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_NAME": "Trial of Death",
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_DESCRIPTION": "Complete the Trial of Death.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_NAME": "Trial of Frailty",
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_DESCRIPTION": "Complete the Trial of Frailty.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Trial of Soul",
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Complete the Trial of Soul.",
+
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Godspeed",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "As Commando, fully charge the first-stage teleporter before the timer hits 5 minutes.",
+
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Bad Medicine",
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "As Acrid, land the final blow on a Scavenger.",
+
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Huntress: Finishing Touch",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "As Huntress, land a killing blow with every possible hit of a single glaive.",
+
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Easy Prey",
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "As Acrid, land the killing blow on 50 total enemies that have 1 hit point left.",
+
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_NAME": "Engineer: Zero Sum",
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_DESCRIPTION": "As Engineer, finish charging the teleporter with zero monsters remaining on the stage.",
+
+		"ACHIEVEMENT_DIE20TIMES_NAME": "I Love Dying!",
+		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Die 20 times.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Washed Away",
+		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Escape the moon.",
+
+		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Dragged Below",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Escape the Planetarium or complete wave 50 in Simulacrum.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "The Calm",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Escape the moon on Monsoon difficulty.",
+
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Captain: Worth Every Penny",
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "As Captain, repair and recruit a TC-280 Prototype.",
+
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Captain: Wanderlust",
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "As Captain, visit 10 different environments in a single run.",
+
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Captain: Smushed",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "As Captain, kill the final boss using a Supply Beacon.",
+
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Bandit: Classic Man",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "As Bandit, successfully use 'Lights Out' to reset your cooldowns 15 times in a row.",
+
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Bandit: B&E",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "As Bandit, kill the final boss with 'Lights Out'.",
+
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadist",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
+
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Railgunner: Annihilator",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "As Railgunner, deal 1,000,000 damage in one shot.",
+
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Railgunner: Marksman",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "As Railgunner, fire 30 consecutive sniper shots without missing a Weak Point.",
+
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Railgunner: Trickshot",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "As Railgunner, get 3 kills with a single Supercharge shot while airborne.",
+
+
+		"ACHIEVEMENT__NAME": "",
+		"ACHIEVEMENT__DESCRIPTION": ""
+
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"strings":
+	{
+		"OBJECTIVE_TITLE" : "Objective:",
+		"OBJECTIVE_FIND_TELEPORTER": "Find and activate the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter zone!</style> ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "Proceed through the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_DEFEAT_BOSS": "Defeat the boss!",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Rebuild the Halcyon Beacons({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Defeat {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Time Crystals</color> ({0}/{1})",
+		"OBJECTIVE_CLEAR_ARENA" : "Activate all Cell Vents ({0}/{1})",
+		"OBJECTIVE_ARENA_CHARGE_CELL" : "Breach the Cell ({0}%)",
+		"OBJECTIVE_SELFDESTRUCT_ESCAPE" : "Moon Detonation Imminent",
+		"OBJECTIVE_MOON_BATTERY_SOUL" : "Charge the <style=cLunarObjective>Pillar of Soul</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_SOUL_OOB": "Enter the <style=cLunarObjective>Pillar of Soul zone!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_BLOOD" : "Charge the <style=cLunarObjective>Pillar of Blood</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_BLOOD_OOB": "Enter the <style=cLunarObjective>Pillar of Blood zone!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN" : "Charge the <style=cLunarObjective>Pillar of Design</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN_OOB": "Enter the <style=cLunarObjective>Pillar of Design zone!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS" : "Charge the <style=cLunarObjective>Pillar of Mass</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS_OOB": "Enter the <style=cLunarObjective>Pillar of Mass zone!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MISSION": "Charge <style=cLunarObjective>Pillars</style> ({0}/{1})",
+		"OBJECTIVE_MOON_RELEASE_DROPSHIP": "Find a way to release the <style=cHumanObjective>Rescue Ship</style>",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP": "Defend the <style=cHumanObjective>Rescue Ship</style> ({0}%)",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "Defend the <style=cHumanObjective>Rescue Ship!</style>({0}%)",
+		"OBJECTIVE_MOON_DROPSHIP_WAIT_FOR_ALLIES": "Escape!",
+		"OBJECTIVE_FRACTION_PROGRESS_FORMAT": "{0} ({1}/{2})",
+		"OBJECTIVE_VOID_BATTERY_MISSION": "Activate <style=cIsVoid>Deep Void Signals</style> ({0}/{1})",
+		"OBJECTIVE_VOID_DEEP_PORTAL": "Enter the <style=cIsVoid>Deep Void</style>",
+		"OBJECTIVE_VOID_OUTRO_PORTAL": "Exit the <style=cIsVoid>Deep Void</style>",
+		"OBJECTIVE_VOIDCAMP": "Clear the <style=cIsVoid>Void Seed</style>.\n{0} monster(s) remaining",
+		"OBJECTIVE_VOID_BATTERY" : "Charge the <style=cIsVoid>Deep Void Signals</style> ({0}%)",
+		"OBJECTIVE_VOID_BATTERY_OOB": "Enter the <style=cIsVoid>Deep Void Signal's radius!</style> ({0}%)",
+		"OBJECTIVE_COLOSSUS_EVENT_BEGIN": "Earn the Favor of the Colossus"
+	}
+}

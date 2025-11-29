@@ -1,0 +1,33 @@
+{
+	"strings": {
+		"CREDITS": "Credits",
+
+		"CREDITS_HOPOOGAMES_LEAD_IN": "Is...",
+		"CREDITS_CHRIS_LEAD_IN": "Featuring the music of...",
+		"CREDITS_SKEWSOUND_LEAD_IN": "With audio by...",
+		"CREDITS_GHOSTPUNCH_LEAD_IN": "Additional development by...",
+		"CREDITS_STREAMLINE_LEAD_IN": "Additional development by...",
+		"CREDITS_ADDITIONAL_CONTRIBUTIONS_LEAD_IN": "Additional contributions by...",
+		"CREDITS_PLAYEVERYWARE_LEAD_IN": "Console versions by...",
+		"CREDITS_LIONBRIDGE_LEAD_IN": "Localization by...",
+        "CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_TEAM": "Localization Team",
+        "CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_QA_TEAM": "Localization QA Team",
+		"CREDITS_GEARBOXPUBLISHING_LEAD_IN": "And published by...",
+		"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_PUBLISHING": "Publishing",
+		"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_FINANCE_HR_IT_LEGAL_OPERATIONS": "Finance, HR, IT, Legal, and Operations",
+		"CREDITS_SPECIAL_THANKS_LEAD_IN": "Special Thanks",
+		"CREDITS_PRODUCTION_BABIES_LEAD_IN": "Production Babies",
+		"CREDITS_SOFTWARE_WWISE_TEXT": "Powered by Wwise © 2006 – 2021 Audiokinetic Inc. All rights reserved.",
+		"CREDITS_SOFTWARE_UNITY_TEXT": "Made with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved.",
+		"CREDITS_SOFTWARE_SPEEDTREE_TEXT": "Portions of this software utilize SpeedTree® technology (©2019 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of Interactive Data Visualization, Inc. All rights reserved.",
+		"CREDITS_COPYRIGHT": "© 2025 Gearbox. Published and distributed by Gearbox Publishing. Gearbox and Risk of Rain, and the Gearbox Publishing logo, are registered trademarks of Gearbox.\r\nDeveloped by Hopoo Games, LLC.",
+		"CREDITS_FINALMESSAGE": "...and you, yes you! Thank you!",
+		"CREDITS_GEARBOXSOFTWARE": "Gearbox Software",
+		"CREDITS_PINGLE_DEPARTMENT_QA_TEAM": "QA Team",
+		"CREDITS_PINGLE_DEPARTMENT_TECHNICAL_ART_TEAM": "Technical Art Team",
+		"CREDITS_PINGLE_DEPARTMENT_SOUND_DESIGN_TEAM": "Sound Design Team",
+		"CREDITS_PINGLE_DEPARTMENT_UNITY_DEVELOPMENT_TEAM": "Unity Development Team",
+		"CREDITS_LIONBRIDGE_DEPARTMENT_FUNCTIONAL_QA_TEAM": "Functional QA Team",
+		"CREDITS_STREAMLINE_COPYRIGHT": "Copyright © 2021, Streamline Media Group, Inc. All rights reserved. Developed by Streamline Games, a division of Streamline Media Group, Inc. Streamline Games and Streamline Media are trademarks and\/or registered trademarks of Streamline Media Group, Inc.\r\n"
+	}
+}
