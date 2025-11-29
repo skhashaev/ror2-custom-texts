@@ -6,19 +6,25 @@ const capitalized = (word) => {
 }
 
 const replaceWords = (text, wordsToReplace) => {
-    return text.replace(/\b\w+\b/g, (match) => {
-        console.log(match);
-        const lower = match.toLowerCase();
-        if(wordsToReplace.includes(lower)) {
-            let replacement = replacementObject[lower];
-            // Capitalize if original was capitalized
-            if (match[0] === match[0].toUpperCase() && match.slice(1) === match.slice(1).toLowerCase()) {
-                replacement = capitalized(replacement);
+    let result = text;
+    for (const word of [...wordsToReplace, ...wordsToReplace.map(capitalized)]) {
+        console.log(word);
+        result = result.replace(word, (match) => {
+            const lower = match.toLowerCase();
+            if(wordsToReplace.includes(lower)) {
+                let replacement = replacementObject[lower];
+                console.log('--replacement', replacement)
+                // Capitalize if original was capitalized
+                if (match[0] === match[0].toUpperCase()) {
+                    console.log('--replacement', replacement)
+                    replacement = capitalized(replacement);
+                }
+                return replacement;
             }
-            return replacement;
-        }
-        return match;
-    });
+            return match;
+        });
+    }
+    return result;
 }
 
 // Files to work with
@@ -37,7 +43,7 @@ if (!fs.existsSync(modifiedTextsFolder)) {
 }
 
 if (!fs.existsSync('replacement.json')) {
-    console.error(`Replacement file not found: ${replacementFile}`);
+    console.error(`Replacement file not found: replacement.json`);
     process.exit(1);
 }
 
@@ -47,14 +53,18 @@ const replacementObject = JSON.parse(replacement);
 const wordsToReplace = Object.keys(replacementObject);
 
 // Original texts
-const originalTextsFiles = fs.readdirSync('original-texts/en');
+const originalTextsFiles = fs.readdirSync('original-texts/en').filter(file => file.endsWith(".json"));
 
 // Modify texts
 for (const file of originalTextsFiles) {
     const originalText = fs.readFileSync(`${originalTextsFolder}/${file}`, 'utf8');
     const modifiedText = replaceWords(originalText, wordsToReplace);
-    console.log(modifiedText);
     fs.writeFileSync(`${modifiedTextsFolder}/${file}`, modifiedText);
 }
+
+    // const originalText = fs.readFileSync(`${originalTextsFolder}/Achievements.json`, 'utf8');
+    // const modifiedText = replaceWords(originalText, wordsToReplace);
+    // fs.writeFileSync(`${modifiedTextsFolder}/Achievements.json`, modifiedText);
+
 
 console.log('Texts modified successfully');

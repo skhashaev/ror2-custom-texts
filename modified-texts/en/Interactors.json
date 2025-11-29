@@ -176,7 +176,7 @@
 
 		"SHRINE_CHANCE_NAME": "Pillar of Chance",
 		"SHRINE_CHANCE_CONTEXT": "Hit Pillar of Chance",
-		"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You offer to the trader and are rewarded!</color>",
+		"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You hit the trader and are rewarded!</color>",
 		"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the trader and was rewarded!</color>",
 		"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You offer to the trader, but gain nothing.</color>",
 		"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} offered to the trader and gained nothing.</color>",

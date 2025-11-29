@@ -79,7 +79,7 @@
 		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Free the survivor suspended in time.",
 
 		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME": "Newtist",
-		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION": "Discover and activate 8 unique Newt Altars.",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION": "Discover and activate 8 unique Newt Pillars.",
 
 		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME": "True Respite",
 		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION": "Obliterate yourself at the Pillar..",
@@ -109,7 +109,7 @@
 		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Without healing, reach and complete the 3rd Teleporter event.",
 
 		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Her Concepts",
-		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Pillar to N'kuhana.",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Altar to N'kuhana.",
 
 		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunar Omens",
 		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Find 10 Clay Dolls. <sprite name=\"WIP\"> This achievement is currently unimplemented. <sprite name=\"WIP\">",
@@ -306,7 +306,7 @@
 		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Trial of Soul",
 		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Complete the Trial of Soul.",
 
-		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Godspeed",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Humanspeed",
 		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "As Commando, fully charge the first-stage teleporter before the timer hits 5 minutes.",
 
 		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Bad Medicine",
